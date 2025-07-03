@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+/* reset.css */
+* {
+  margin: 0;padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a:any-link {
+  text-decoration: none;
+}
+
+button, input, select, textarea {
+  font: inherit;
+  border: none;
+  outline: none;
+  background: none;
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+  box-sizing: border-box;
+  border-spacing: 0;
+}
+
+/* main */
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
+
+h2.nomal_sf, h3.nomal_sf {
+  font-weight: 700;
+}
+
+section {
+  background-color: #fff;
+}
+
+a {
+  color: #005BAC;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  border-color: #005BAC;
+}
+
+article.nomal_sf {
+  background: #fff;
+  padding: 24px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
