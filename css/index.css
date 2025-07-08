@@ -127,12 +127,16 @@ section {
   width: 100%;
   height: 100vh;
   position: sticky;
-  top: 80px;
+  top: 0;
   left: 0;
   z-index: -1;
   /* 배경예정 */
-  background-color: #fff2;
-  backdrop-filter: blur(2px);
+  /* background-image: url(../img/main/AI_bgr.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #fff5;
+  backdrop-filter: blur(6px); */
 }
 
 .textbox_1 {
@@ -152,6 +156,20 @@ section {
   line-height: 1.8;
 }
 
+.approach_bck {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  left: 0;
+}
+
+.approach_bck img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 @media (max-width: 768px) {
   .textbox_1 h3 {
     text-align: center;
@@ -164,7 +182,9 @@ section {
 #about {
   background-color: #fff;
   width: 100%;
-  box-shadow: 0px -50px 40px #fff;
+  min-height: 100vh;
+  box-shadow: 0px -50px 40px #fff,
+  0px 50px 40px #fff;
 }
 
 #about>h3 {
@@ -206,6 +226,14 @@ section {
   .robot_box {
     display: none;
   }
+}
+
+@media (max-width: 768px) {
+
+  .text_about p {
+    font-size: 1.5rem;
+  }
+
 }
 
 .robot_png {
@@ -291,13 +319,13 @@ section {
 #project {
   width: 100%;
   position: relative;
-  background: #fff;
+  scroll-margin-top: -50px;
 }
 
 .project_wrap {
   width: 80%;
   margin: 0 10%;
-  padding-top: 80px;
+  padding-top: calc(4vw + 80px);
   padding-bottom: 4vw;
   position: relative;
   top: 0;
@@ -362,7 +390,7 @@ section {
 }
 
 .pjt_text {
-  padding: 0 1rem 1rem;
+  padding: 1rem 1rem;
 }
 
 .pjt_text h3 {
@@ -440,11 +468,11 @@ section {
     text-underline-offset: 6px;
   }
 
-  .project_card.clicked .project_box {
+  .project_card.clicked .project_box img {
     filter: brightness(90%) blur(4px);
   }
 
-  .project_card.clicked .project_box ul {
+  .project_card.clicked > .project_box > ul {
     display: block;
   }
 
@@ -464,7 +492,6 @@ section {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: linear-gradient(to bottom, #fefefe, #e8e8e8);
 }
 
 .text_contact {
@@ -490,22 +517,26 @@ section {
   font-size: 1rem;
 }
 
+.footer {
+  position: absolute;
+  bottom: 3rem;
+}
+
+address {
+  margin: 0 10vw;
+  font-size: 100%;
+  font-style: normal;
+  font-size: 0.5rem;
+  background-color: transparent;
+}
+
 @media (max-width: 768px) {
-  .text_contact {
-  }
 
   .recommend {
     font-size: 1.2rem;
   }
-}
 
-.footer {
-  position: absolute;
-  bottom: 2rem;
-}
-
-address {
-  font-size: 100%;
-  font-style: normal;
-  font-size: 0.5rem;
+  address {
+    font-size: 0.8rem;
+  }
 }
