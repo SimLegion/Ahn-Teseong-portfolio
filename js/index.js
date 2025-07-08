@@ -42,7 +42,7 @@ $(function () {
       }
     });
   }, {
-    threshold: 0.1
+    threshold: 0.2
   });
 
   document.querySelectorAll('.scroll_fade').forEach(el => {
