@@ -180,6 +180,17 @@ section {
   left: 0;
 }
 
+.approach_bck {
+  opacity: 0.3;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.approach_bck.full-strength {
+  opacity: 1;
+  z-index: 1;
+}
+
 .approach_bck img {
   width: 100%;
   height: 100%;

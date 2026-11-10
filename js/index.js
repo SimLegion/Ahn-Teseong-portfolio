@@ -1,25 +1,17 @@
 $(function () {
-  // 📌 approach_bck 초기 숨김
-  $('.approach_bck').hide();
-
   // 📌 모바일 판단 함수
   function isMobile() {
     return $(window).width() <= 768;
   }
 
-  // 📌 스크롤 이벤트 - approach_bck 표시/숨김
-  $(window).on('scroll', function () {
-    const scrollTop = $(this).scrollTop();
-    const windowHeight = $(window).height();
-    const triggerPoint = windowHeight * 1.1;
-
-    if (scrollTop < triggerPoint) {
-      $('.approach_bck').hide();
-    } else {
-      $('.approach_bck').show();
-    }
-  });
-
+  const backdrop = document.querySelector('.approach_bck');
+  function updateBackdrop() {
+    backdrop.classList.toggle('full-strength', window.scrollY >= window.innerHeight * 1.1);
+  }
+  updateBackdrop();
+  window.addEventListener('scroll', updateBackdrop, { passive: true });
+  window.addEventListener('resize', updateBackdrop);
+  window.addEventListener('pageshow', updateBackdrop);
   // 📌 project_card 클릭 토글 (모바일만)
   $('.project_card').on('click', function () {
     if (isMobile()) {
