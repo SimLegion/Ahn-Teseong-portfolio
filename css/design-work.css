@@ -1,5 +1,6 @@
 #little_work { min-width: 0; container-type: inline-size; }
-#little_work > h3 { font-size: clamp(1.55rem, 3vw, 2.4rem); line-height: 1.35; margin-block: 2rem; }
+.web-project-heading { grid-column: 1 / -1; }
+.web-project-heading, #little_work > h3 { font-size: clamp(1.55rem, 3vw, 2.4rem); line-height: 1.35; margin-block: 2rem; }
 .design-group { border-top: 1px solid #aaa; padding-block: 1.2rem 2rem; }
 .design-group h4 { margin-bottom: 1rem; font-size: 1.15rem; }
 .design-group ul { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: clamp(.8rem,2vw,2rem); }
