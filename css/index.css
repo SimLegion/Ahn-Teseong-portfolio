@@ -309,6 +309,14 @@ section {
   transform: scale(0.9);
 }
 
+.text_about p + p { margin-top: 1em; }
+
+@media (prefers-reduced-motion: reduce) {
+  .track_inner { animation: none; width: 100%; }
+  .tool_slide ul { width: 100%; flex-wrap: wrap; row-gap: 1rem; }
+  .tool_slide ul[aria-hidden="true"] { display: none; }
+}
+
 /* bck_project */
 
 /* .bck_project {
