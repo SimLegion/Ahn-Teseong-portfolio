@@ -10,6 +10,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
   <title>안태성 포트폴리오</title>
+  <link rel="stylesheet" href="css/design-work.css">
+  <script type="module" src="js/design-work.js"></script>
 </head>
 
 <body>
@@ -122,31 +124,38 @@
             <h3 class="nomal_sf">프로젝트 캡콤</h3>
           </div>
         </aside>
-        <aside id="little_work">
-          <h3 class="nomal_sf scroll_fade">소규모 작업</h3>
-          <ul class="little_works">
-            <li class="scroll_fade"><a href="img/little/안태성_브랜딩_ATS코인-4.pdf" target="_blank">
-                <div class="little_img"><img src="img/main/Asset 1.png" alt="브랜드 디자인"></div>
-                <div class="little_text">브랜드 디자인</div>
+        <aside id="little_work" aria-labelledby="design-heading">
+          <h3 id="design-heading">디자인 작업</h3>
+          <section class="design-group">
+            <h4>브랜딩·광고</h4>
+            <ul>
+              <li><a href="img/little/안태성_브랜딩_ATS코인-4.pdf" target="_blank" rel="noopener">
+                <img loading="lazy" src="img/main/Asset 1.png" alt="">
+                <span>ATS 브랜드 디자인<small>PDF ↗</small></span>
               </a></li>
-            <li class="scroll_fade"><a href="img/little/한국주택금융공사-4_광고시안_안태성.jpg" target="_blank">
-                <div class="little_img"><img src="img/little/한국주택금융공사-4_광고시안_안태성.jpg" alt="한국주택금융공사 광고 포스터"></div>
-                <div class="little_text">한국주택금융공사 광고 포스터</div>
+              <li><a href="img/little/한국주택금융공사-4_광고시안_안태성.jpg" data-artwork>
+                <img loading="lazy" src="img/little/한국주택금융공사-4_광고시안_안태성.jpg" alt="">
+                <span>한국주택금융공사 광고 포스터<small>작품 보기</small></span>
               </a></li>
-            <li class="scroll_fade"><a href="totalwar.html" target="_blank">
-                <div class="little_img"><img src="img/little/totalwarwarhammer3.jpg" alt="total war warhammer 3 상세 페이지">
-                </div>
-                <div class="little_text">total war warhammer 3 상세 페이지</div>
+            </ul>
+          </section>
+          <section class="design-group">
+            <h4>상세페이지</h4>
+            <ul>
+              <li><a href="img/little/totalwarwarhammer3.jpg" data-artwork>
+                <img loading="lazy" src="img/little/totalwarwarhammer3.jpg" alt="">
+                <span>Total War: WARHAMMER III<small>작품 보기</small></span>
               </a></li>
-              <li class="scroll_fade"><a href="img/little/watermelon.jpg">
-                <div class="little_img"><img src="img/little/watermelon.jpg" alt="고창 수박"></div>
-                <div class="little_text">고창 수박 상세 페이지</div>
+              <li><a href="img/little/watermelon.jpg" data-artwork>
+                <img loading="lazy" src="img/little/watermelon.jpg" alt="">
+                <span>고창 수박<small>작품 보기</small></span>
               </a></li>
-              <!-- <li class="scroll_fade"><a href="">
-                <div class="little_img"><img src="" alt=""></div>
-                <div class="little_text"></div>
-              </a></li> -->
-          </ul>
+            </ul>
+          </section>
+          <dialog id="art-view" aria-labelledby="art-title">
+            <header><h3 id="art-title"></h3><div><button type="button" id="art-zoom" aria-pressed="false">확대</button><button type="button" id="art-close">닫기</button></div></header>
+            <div class="art-scroll" tabindex="0" aria-label="작품 이미지"><img alt=""></div>
+          </dialog>
         </aside>
       </div>
     </article>
