@@ -21,3 +21,11 @@
 .art-scroll img { display: block; width: 100%; height: auto; margin-inline: auto; }
 .art-scroll.zoomed img { width: 175%; max-width: none; }
 html:has(#art-view[open]) { overflow: hidden; }
+#ai-work { grid-column: 1 / -1; min-width: 0; scroll-margin-top: 100px; }
+#ai-heading { font-size: clamp(1.55rem, 3vw, 2.4rem); line-height: 1.35; margin-block: 2rem; }
+.ai-case-card { display: block; width: calc((100% - 2vw) / 2); border: 1px solid #dad7d0; border-radius: .8rem; overflow: hidden; background: white; }
+.ai-case-card img { display: block; width: 100%; height: auto; }
+.ai-case-card > span { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem; padding: 1rem; font-weight: 650; }
+.ai-case-card small { font-size: .82rem; color: #625c55; }
+.ai-case-card:focus-visible { outline: 3px solid #235bb2; outline-offset: 3px; }
+@media (max-width: 768px) { .ai-case-card { width: 100%; } }
