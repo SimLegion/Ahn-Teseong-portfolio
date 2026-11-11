@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="흩어진 자료를 연결해 수기 엑셀 작성을 AI와의 협업 절차로 바꾸고, 팀원에게 공유한 업무 개선 사례.">
+  <title>한 줄씩 채우던 엑셀, 반복 가능한 업무로</title>
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="readability.css"><script src="data.js" defer></script><script src="records.js" defer></script><script src="pdf-pages.js" defer></script><script src="pdf-viewer.js" defer></script><script src="window-controls.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header"><a class="wordmark" href="#intro" aria-label="소개로 돌아가기"><span class="brand-mark">↗</span> 안태성 <span class="wordmark-sub">WORK × AI</span></a><span class="project-label">업무 개선 사례 <span class="divider">/</span> 2026.11</span><button class="header-action" id="archive-button">대화 기록 PDF <span aria-hidden="true">↗</span></button></header>
+  <main id="main"></main>
+  <footer class="site-footer"><span>실제 업무 자료를 바탕으로 구성한 포트폴리오</span></footer>
+  <dialog id="file-dialog" aria-labelledby="dialog-title"><div class="dialog-header" id="dialog-drag-handle" tabindex="0" role="group" aria-label="자료 창 제목줄. 드래그 또는 방향키로 창 이동"><div><span class="eyebrow" id="dialog-kind">PROJECT MATERIAL</span><h2 id="dialog-title"></h2><p class="window-hint">제목줄을 끌어 이동 · 오른쪽 아래에서 크기 조절</p></div><div class="window-actions"><button class="close-button" id="dialog-maximize" aria-label="자료 창 최대화" aria-pressed="false" title="최대화 / 이전 크기로 복원">□</button><button class="close-button" id="dialog-close" aria-label="자료 닫기">×</button></div></div><div id="dialog-body"></div><div class="dialog-footer"><span id="file-description"></span><a id="download-file" class="button small" download>파일 다운로드 ↓</a></div><div id="dialog-resize" role="group" tabindex="0" aria-label="자료 창 크기 조절. 드래그 또는 방향키로 조절" title="드래그하여 크기 조절"><span aria-hidden="true">◢</span></div></dialog>
+  <div class="sr-only" id="announcement" aria-live="polite"></div>
+</body>
+</html>

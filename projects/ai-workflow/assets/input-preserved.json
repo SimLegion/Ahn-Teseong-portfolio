@@ -1,0 +1,5718 @@
+{
+  "note": "원본 정보엑셀 파일을 재생성한 것이 아닌 당시 작업의 구조화 보존 데이터",
+  "data": {
+    "products": [
+      {
+        "google_row": 5,
+        "name": "링코 수평 USB-A to 수평 3.5mm 숏케이블",
+        "note": null
+      },
+      {
+        "google_row": 6,
+        "name": "모바 수평 8핀 to 수평 3.5mm 숏케이블",
+        "note": null
+      },
+      {
+        "google_row": 9,
+        "name": "씬링크 수평 to 수평 C타입 100W 20Gbps 8K60Hz 플랫 연장 케이블",
+        "note": null
+      },
+      {
+        "google_row": 10,
+        "name": "역직각 C타입 to 수평 마이크로 5핀 DIY 플랫 케이블",
+        "note": null
+      },
+      {
+        "google_row": 11,
+        "name": "DAC칩 내장 수평 C타입 to 수평 3.5mm 연결 케이블",
+        "note": null
+      },
+      {
+        "google_row": 17,
+        "name": "소닉 6.35mm 직각 to 수평 오디오 케이블",
+        "note": null
+      },
+      {
+        "google_row": 20,
+        "name": "잼링크 일렉 기타 이펙터 직각 to 직각 플랫 패치 케이블",
+        "note": null
+      },
+      {
+        "google_row": 21,
+        "name": "DIY 역직각 to 역직각 C타입  플랫 실리콘 케이블 66W",
+        "note": null
+      },
+      {
+        "google_row": 22,
+        "name": "DIY 직각 to 직각 C타입 플랫 실리콘 케이블 66W",
+        "note": null
+      },
+      {
+        "google_row": 24,
+        "name": "원탭 수평 to 수평 USB4 240W 80Gbps 16K 마그네틱 숏케이블",
+        "note": null
+      },
+      {
+        "google_row": 25,
+        "name": "수평 2RCA to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "note": null
+      },
+      {
+        "google_row": 26,
+        "name": "수평 AUX 3.5mm to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "note": "네이버 추가문구 사용"
+      },
+      {
+        "google_row": 27,
+        "name": "스탠픽 역직각 C타입 to 수평 2in1 USB-A+C 실리콘 거치형 충전 케이블",
+        "note": "네이버 이름 줄임"
+      },
+      {
+        "google_row": 28,
+        "name": "슬링크 역직각 to 역직각 240W 80G 8K 숏 케이블",
+        "note": null
+      },
+      {
+        "google_row": 29,
+        "name": "플렉시온 540도 회전 C타입 to 수평 USB-A LED 케이블 120W",
+        "note": "네이버 이름 줄임"
+      },
+      {
+        "google_row": 30,
+        "name": "앵글로 100W 역직각 to 수평 C타입 고속충전 케이블",
+        "note": "\"100w\" 중복제거"
+      },
+      {
+        "google_row": 31,
+        "name": "제노스 역직각 to 수평 C타입 거치형 240W 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 33,
+        "name": "벨로아 4in1 수평 to 수평 멀티 C타입 충전 케이블",
+        "note": "이미지 파일크기 초과"
+      },
+      {
+        "google_row": 34,
+        "name": "에어브릿지 240W 직각 to 수평 C타입 숏 케이블 USB4 40Gbps 8K",
+        "note": "네이버 이름 줄임"
+      },
+      {
+        "google_row": 35,
+        "name": "스테이지 듀얼 3.5mm 수평 to 수평 오디오 마이크 분배 케이블",
+        "note": null
+      },
+      {
+        "google_row": 36,
+        "name": "아크 듀얼 3.5mm 수평 to 수평 Y자형 오디오 분배 케이블",
+        "note": null
+      },
+      {
+        "google_row": 37,
+        "name": "오닉스 C타입 듀얼 3.5mm 수평 to 수평 오디오 마이크 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 38,
+        "name": "웨이브 USB-A 듀얼 3.5mm 수평 to 수평 오디오 마이크 변환 케이블",
+        "note": "네이버 이름 줄임"
+      },
+      {
+        "google_row": 39,
+        "name": "사운드 프로 수평 C타입 to 수평 RCA 오디오 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 40,
+        "name": "볼티바 120W LED 수평 to 수평 C타입 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 41,
+        "name": "라이브 C타입 듀얼 오디오 출력 AUX-6.35mm 수평 to 수평 케이블",
+        "note": null
+      },
+      {
+        "google_row": 42,
+        "name": "유니버설 Hi-Fi 수평 3in1 C타입·라이트닝·3.5mm to 수평 듀얼 6.35mm 오디오 케이블",
+        "note": "허용하지않는 특수문자 제거 "
+      },
+      {
+        "google_row": 43,
+        "name": "에이젠 수평 3.5mm to 수평 6.35mm AUX 오디오 변환 케이블",
+        "note": "(네이버)개별 진행"
+      },
+      {
+        "google_row": 44,
+        "name": "고음질 직각 to 수평 6.35mm 일렉기타 케이블",
+        "note": null
+      },
+      {
+        "google_row": 45,
+        "name": "플로우 충전 데이터 분리형 수평 to 수평 C타입 멀티 분배 케이블",
+        "note": "네이버 그룹지정"
+      },
+      {
+        "google_row": 46,
+        "name": "플랫플렉스 직각 to 직각 C타입 미니 케이블 66w",
+        "note": null
+      },
+      {
+        "google_row": 47,
+        "name": "플랫플랙스 직각 to 수평 C타입 미니 연장 케이블 66w",
+        "note": null
+      },
+      {
+        "google_row": 48,
+        "name": "글로시 크롬 4in1 멀티 커넥터 수평 to 수평 C타입 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 49,
+        "name": "텐코드 240W 수평 to 수평 C타입 자동수납 초고속 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 50,
+        "name": "수평 USB-B(3.0) to 수평 USB-A타입 스피디 미디 케이블",
+        "note": null
+      },
+      {
+        "google_row": 51,
+        "name": "원터치 탈착 마그네틱 540도 회전 C타입 to 수평 USB-A 고속충전 케이블 LED 표시",
+        "note": "네이버 추가문구 사용"
+      },
+      {
+        "google_row": 52,
+        "name": "새턴 180도 회전 C to 수평 USB-A LED 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 53,
+        "name": "올인원 메탈 클립형 4in1 수평 to 수평 C타입 멀티 고속충전 케이블 240W PD",
+        "note": "네이버 추가문구 사용"
+      },
+      {
+        "google_row": 54,
+        "name": "파인그립 수평 USB-A to 역직각 C타입 고속충전 패브릭 케이블 60W",
+        "note": "네이버 추가문구 사용"
+      },
+      {
+        "google_row": 56,
+        "name": "메탈 바디 240W PD 전력표시 수평 to 수평 C타입 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 57,
+        "name": "젠트라 240W 4in1 수평 to 수평 실리콘 초고속 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 59,
+        "name": "고출력 240W PD 초고속충전 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 60,
+        "name": "넥소 100w 수평 to 수평 C타입 멀티 초고속충전 케이블",
+        "note": "영상(위치 수정 필요)네이버"
+      },
+      {
+        "google_row": 61,
+        "name": "크론 180도 회전 USB-A to 180도 회전 C타입 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 62,
+        "name": "트리플링크 120W 수평 USB-A to 수평 3in1 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 63,
+        "name": "DIY 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "note": null
+      },
+      {
+        "google_row": 64,
+        "name": "플레이핏 LED 역직각 to 역직각 C타입 패브릭 케이블 60W",
+        "note": null
+      },
+      {
+        "google_row": 65,
+        "name": "위보 직각 to 수평 C타입 스프링 패브릭 케이블 100W 초고속충전",
+        "note": null
+      },
+      {
+        "google_row": 66,
+        "name": "엘보 직각 to 수평 C타입 스프링 케이블 66W 고속충전",
+        "note": null
+      },
+      {
+        "google_row": 67,
+        "name": "루멘트 수평 to 수평 2in1 C to C 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 68,
+        "name": "파워 100W 직각 to 수평 C타입 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 69,
+        "name": "리브 역직각 to 수평 C타입 실리콘 초고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 70,
+        "name": "2in1 수평 USB-A to 수평 C타입 듀얼포트 Y형 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 71,
+        "name": "코스모 4in1 수평 to 수평 C타입 디스플레이 고속충전 패브릭 케이블 240W",
+        "note": null
+      },
+      {
+        "google_row": 72,
+        "name": "벡스 4in1 수평 to 수평 C타입 마그네틱 꼬임방지 패브릭 케이블 65W",
+        "note": null
+      },
+      {
+        "google_row": 73,
+        "name": "엘리온 USB4 썬더볼트4 호환 수평 to 수평 C타입 케이블 240W 40Gbps 8K",
+        "note": null
+      },
+      {
+        "google_row": 74,
+        "name": "그라비온 USB4 썬더볼트4 호환 수평 to 수평 C타입 패브릭 케이블 240W 40Gbps 8K",
+        "note": null
+      },
+      {
+        "google_row": 77,
+        "name": "퍼플스트림 100W 수평 USB A to 수평 C타입 올인원 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 78,
+        "name": "코벨 수평 USB-A to 역직각 C타입 6A 고속충전 패브릭 케이블 최대 66W",
+        "note": null
+      },
+      {
+        "google_row": 79,
+        "name": "큐브 OTG 멀티 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 80,
+        "name": "레이 240W 수평 to 수평 C타입 패브릭 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 81,
+        "name": "메카닉 100W PD 고속 충전 수평 to 수평 C타입 디지털 LED 케이블",
+        "note": null
+      },
+      {
+        "google_row": 82,
+        "name": "엑손 240W 80Gbps USB5 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 16K",
+        "note": null
+      },
+      {
+        "google_row": 83,
+        "name": "액티 100W 180도 회전 C타입 to 수평 C타입 고속충전 케이블",
+        "note": "등록할 때 영상 주의"
+      },
+      {
+        "google_row": 84,
+        "name": "슬림핏 직각 to 수평 C타입 미니 플랫 케이블 100W",
+        "note": null
+      },
+      {
+        "google_row": 85,
+        "name": "블립 스위치전원 수평 to 수평 USB 연장 숏케이블",
+        "note": null
+      },
+      {
+        "google_row": 86,
+        "name": "다트 수평 to 수평 C타입 240W 디스플레이 실리콘 초고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 87,
+        "name": "240W 수평 to 수평 C타입 스냅 초고속충전 마그넷 숏 케이블 PD 3.1",
+        "note": null
+      },
+      {
+        "google_row": 88,
+        "name": "루모 USB4 40Gbps 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 240W 8K",
+        "note": null
+      },
+      {
+        "google_row": 89,
+        "name": "에이스 240W 수평 C타입 to 수평 8핀 초고속충전 케이블",
+        "note": "등록할 때 영상 주의"
+      },
+      {
+        "google_row": 92,
+        "name": "싱글플렉스 180도 회전 to 수평 C타입  패브릭 고속충전 케이블 60W",
+        "note": null
+      },
+      {
+        "google_row": 93,
+        "name": "오르빗 수평 to 수평 C타입 USB5 16K 240W 80Gbps 썬더볼트 5 호환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 94,
+        "name": "코비 240W 수평 to 수평 C타입 LED 실리콘 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 95,
+        "name": "브레이드 패브릭 수평 to 수평 C타입 240W 초고속 충전 데이터 케이블",
+        "note": null
+      },
+      {
+        "google_row": 96,
+        "name": "롤싱크 100W PD 수평 to 수평 C타입 충전 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 97,
+        "name": "템프가드 온도제어 240W 스마트 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 98,
+        "name": "4K UHD 고화질 수평 C타입 to 수평 HDMI 단방향 케이블",
+        "note": null
+      },
+      {
+        "google_row": 99,
+        "name": "노드 수평 to 수평 C타입 240W 실리콘 디스플레이 케이블",
+        "note": null
+      },
+      {
+        "google_row": 100,
+        "name": "디지털 디스플레이 수평 to 수평 C타입 240W 초고속 충전케이블",
+        "note": null
+      },
+      {
+        "google_row": 101,
+        "name": "차지트리오 3in1 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 102,
+        "name": "트윈라인 수평 to 수평 C타입 2in1 Y자형 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 103,
+        "name": "초고화질 8K UHD 수평 C타입 to 수평 DP 패브릭 케이블 v1.4 디스플레이 포트",
+        "note": null
+      },
+      {
+        "google_row": 104,
+        "name": "듀오링크 수평 to 수평 USB 2.0 듀얼 연장 케이블",
+        "note": null
+      },
+      {
+        "google_row": 105,
+        "name": "거치대 꺾임형 C타입 to 수평 USB-A 65W 고속 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 106,
+        "name": "거치대 꺾임형 C타입 to 수평 C타입 240W 초고속 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 107,
+        "name": "8K UHD 수평 DP to 수평 DP 고강도 패브릭 케이블 1.4v 양방향 디스플레이 포트",
+        "note": null
+      },
+      {
+        "google_row": 108,
+        "name": "워크릴 100W 충전 수평 to 수평 3in1 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 109,
+        "name": "스탠딩 꺾임형 C타입 to 수평 C타입 240W 초고속 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 110,
+        "name": "벤디 디스플레이 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 113,
+        "name": "2in1 수평 to 수평 C타입 초고속 충전 듀얼라인 멀티 케이블 100W PD",
+        "note": null
+      },
+      {
+        "google_row": 114,
+        "name": "익스텐드 수평 to 수평 C타입 PD100W 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 115,
+        "name": "수평 USB-A to 수평 C타입 스탠드 코브라 케이블",
+        "note": null
+      },
+      {
+        "google_row": 116,
+        "name": "코어핏 직각 to 수평 USB 3.0 연장 케이블",
+        "note": null
+      },
+      {
+        "google_row": 117,
+        "name": "4in1 수평 to 수평 C타입 블록 스타일 파스텔 케이블",
+        "note": null
+      },
+      {
+        "google_row": 118,
+        "name": "리노 마그네틱 C타입 to 수평 USB-A 선꼬임 방지 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 119,
+        "name": "스마트폴드 4in1 수평 to 수평 릴 케이블",
+        "note": null
+      },
+      {
+        "google_row": 120,
+        "name": "맥스턴 3in1 180도 회전 to 수평 120W 고속충전 멀티단자 케이블",
+        "note": null
+      },
+      {
+        "google_row": 121,
+        "name": "자석형 마그네틱 역직각 to 수평 C타입 PD65W 케이블",
+        "note": null
+      },
+      {
+        "google_row": 122,
+        "name": "4in1 수평 to 수평 C타입 초고속 충전 액상 실리콘 케이블 100W",
+        "note": null
+      },
+      {
+        "google_row": 124,
+        "name": "마그네틱 헤드 180도 회전 to 수평 C타입 초고속충전 패브릭 케이블 100w",
+        "note": null
+      },
+      {
+        "google_row": 125,
+        "name": "멀티플렉스 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "note": null
+      },
+      {
+        "google_row": 126,
+        "name": "60W 180도 회전 라이트 수평 to 수평  C타입 고속 충전 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 127,
+        "name": "스토리지 수평 USB-A to 수평 5핀 8핀 C타입 자석 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 128,
+        "name": "코디온 120W 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 129,
+        "name": "6Gbps 고속전송 노바 수평 to 수평 SATA 3.0 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 130,
+        "name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-R",
+        "note": null
+      },
+      {
+        "google_row": 131,
+        "name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-G",
+        "note": null
+      },
+      {
+        "google_row": 132,
+        "name": "100W 고속충전 수평 to 수평 C타입 빌트인 거치대 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 133,
+        "name": "마그네틱 헤드 360도 회전 USB-A to 수평 C타입 120W 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 134,
+        "name": "수평 to 수평 USB C타입 8핀 100W 고속충전 조약돌 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 135,
+        "name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "note": null
+      },
+      {
+        "google_row": 136,
+        "name": "슬라이드 수평 to 수평 C타입 240W 고속충전 마그네틱 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 137,
+        "name": "수평 to 수평 USB C타입 8핀 5핀 올인원 캐리어 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 138,
+        "name": "텔레스코픽 수평 to 수평 C타입 240W 고속충전 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 139,
+        "name": "초고속충전 240W 수평 to 수평 C타입 러기드 미니 키링 케이블",
+        "note": "119번과 중복"
+      },
+      {
+        "google_row": 140,
+        "name": "쓰리웨이 수평 to 수평 C타입 데이터전송 충전케이블",
+        "note": null
+      },
+      {
+        "google_row": 141,
+        "name": "레보 4in1 수평 to 수평 고속충전 데이터 스마트 릴케이블",
+        "note": null
+      },
+      {
+        "google_row": 142,
+        "name": "블레이즈 수평 to 수평 C타입 120G USB4 2.0 8k 케이블",
+        "note": null
+      },
+      {
+        "google_row": 144,
+        "name": "패브릭 메쉬 수평 to 수평 AUX 연장 케이블",
+        "note": null
+      },
+      {
+        "google_row": 145,
+        "name": "수평 C타입 to 수평 AUX 오디오 LED 케이블",
+        "note": null
+      },
+      {
+        "google_row": 146,
+        "name": "수평 C타입 to 수평 듀얼 오디오 3.5mm 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 147,
+        "name": "4in1 수평 8핀 C타입 to 수평 3.5mm 오디오 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 148,
+        "name": "하이싱크 수평 to 수평 오디오 충전 듀얼 케이블",
+        "note": null
+      },
+      {
+        "google_row": 149,
+        "name": "수평 C타입 to 수평 HDMI 네온톤 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 150,
+        "name": "수평 C타입 to 수평 C타입 USB-A 동시지원 OTG 듀얼 케이블",
+        "note": null
+      },
+      {
+        "google_row": 151,
+        "name": "듀론 역직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 152,
+        "name": "듀론 직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 153,
+        "name": "수평 to 수평 C타입 스퀘어 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 154,
+        "name": "수평 to 수평 XLR 캐논 케이블 마이크 선",
+        "note": null
+      },
+      {
+        "google_row": 155,
+        "name": "트리플라인 수평 C타입 to 수평 8핀 C타입 3in1동시충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 156,
+        "name": "트리플라인 수평 to 수평 C타입 3in1동시충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 158,
+        "name": "수평 DP to 수평 HDMI 어댑터 듀얼스크린 확장 케이블",
+        "note": "네이버에만 등록"
+      },
+      {
+        "google_row": 159,
+        "name": "직각 to 수평 C타입 2in1 더블라인 케이블",
+        "note": null
+      },
+      {
+        "google_row": 160,
+        "name": "직각 C타입 to 수평 8핀 C타입 2in1 더블라인 케이블",
+        "note": null
+      },
+      {
+        "google_row": 161,
+        "name": "직각 USB-A to 수평 C타입 2in1 더블라인 케이블",
+        "note": null
+      },
+      {
+        "google_row": 163,
+        "name": "수평 라이즈 8핀 to 직각 Aux 오디오 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 164,
+        "name": "수평 라이즈 C타입 to 직각 Aux 오디오 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 165,
+        "name": "코튼터치 수평 C타입 to 수평 8핀 미니 플랫 케이블",
+        "note": null
+      },
+      {
+        "google_row": 166,
+        "name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 167,
+        "name": "익스트림 수평 to 수평 DP 2.1 케이블",
+        "note": null
+      },
+      {
+        "google_row": 168,
+        "name": "유니온 수평 C타입 to 수평 오디오 컨버터 케이블",
+        "note": null
+      },
+      {
+        "google_row": 169,
+        "name": "아이스젤리 수평 C타입 to 수평 8핀 케이블",
+        "note": null
+      },
+      {
+        "google_row": 170,
+        "name": "아이스젤리 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 171,
+        "name": "카르노 패브릭 수평 C타입 to 수평 8핀 케이블",
+        "note": null
+      },
+      {
+        "google_row": 172,
+        "name": "무빙 180도 회전 C타입 to 수평 C타입 각도조절 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 173,
+        "name": "Y자형 수평 to 수평 C타입 2in1 듀얼헤드 오디오 케이블",
+        "note": null
+      },
+      {
+        "google_row": 176,
+        "name": "수평 USB-A to 수평 8핀 플랫 숏 케이블",
+        "note": null
+      },
+      {
+        "google_row": 177,
+        "name": "수평 C타입 to 수평 8핀 플랫 숏 케이블",
+        "note": null
+      },
+      {
+        "google_row": 178,
+        "name": "수평 to 수평 C타입 2in1 더블 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 179,
+        "name": "수평 USB-A to 수평 C타입 2in1 콤보라인 케이블",
+        "note": null
+      },
+      {
+        "google_row": 180,
+        "name": "수평 USB-A to 수평 8핀 C타입 2in1 콤보라인 케이블",
+        "note": null
+      },
+      {
+        "google_row": 181,
+        "name": "수평 to 수평 C타입 6in1 멀티트리 케이블",
+        "note": null
+      },
+      {
+        "google_row": 182,
+        "name": "수평 to 수평 C타입 6in1 마그네틱 TPE 멀티 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 183,
+        "name": "수평 USB-B(2.0) to 수평 USB-A타입 패브릭 미디 케이블",
+        "note": null
+      },
+      {
+        "google_row": 184,
+        "name": "수평 USB-B(2.0) to 수평 C타입 패브릭 미디 케이블",
+        "note": null
+      },
+      {
+        "google_row": 185,
+        "name": "직각 C타입 to 수평 C타입 8핀 2in1 힐릭스 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 186,
+        "name": "U자형 to 수평 C타입 소프트 미니 케이블",
+        "note": null
+      },
+      {
+        "google_row": 188,
+        "name": "U자형 to 수평 C타입 패브릭 케이블",
+        "note": null
+      },
+      {
+        "google_row": 191,
+        "name": "제트 수평 mini DP to 수평 DP 양방향 케이블",
+        "note": null
+      },
+      {
+        "google_row": 192,
+        "name": "수평 to 수평 CAT8 초고속 패브릭 플랫 랜케이블",
+        "note": null
+      },
+      {
+        "google_row": 194,
+        "name": "서킷 수평 USB-C to 수평 SATA 2.5형 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 195,
+        "name": "소켓 수평 USB-C to 수평 SATA 2.5형 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 196,
+        "name": "버텍스 수평 USB-C A to 수평 SATA 2.5형 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 197,
+        "name": "듀얼헤드 수평 USB-A타입 3.0 to 수평 SATA 2.5 3.5형 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 198,
+        "name": "펄스 수평 USB-C A타입 3.0 to 수평 SATA 2.5 3.5형 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 199,
+        "name": "트론 수평 USB 3.0 C타입 to 수평 SATA 2.5 3.5형 케이블",
+        "note": null
+      },
+      {
+        "google_row": 202,
+        "name": "클루 수평 USB-A to 수평 C타입 슈퍼 롱 케이블",
+        "note": null
+      },
+      {
+        "google_row": 203,
+        "name": "크롬 수평 USB-A to 수평 C타입 슈퍼 롱 충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 206,
+        "name": "파워플로우 역직각 USB to 수평 8핀 케이블",
+        "note": null
+      },
+      {
+        "google_row": 207,
+        "name": "파워플로우 역직각 USB to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 216,
+        "name": "카레이서 직각 to 역직각 C타입 고속충전 데이터 케이블",
+        "note": null
+      },
+      {
+        "google_row": 220,
+        "name": "수평 C타입 to 수평 8핀 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 221,
+        "name": "수평 C타입 to 수평 8핀 마그네틱 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 222,
+        "name": "루디 역직각 to 수평 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 223,
+        "name": "디플랫 역직각 to 수평 C타입 미니 케이블",
+        "note": null
+      },
+      {
+        "google_row": 224,
+        "name": "이지캐리 수평 to 수평 C타입 미니 케이블",
+        "note": null
+      },
+      {
+        "google_row": 225,
+        "name": "미니벤트 수평 to 수평 C타입 스트레이트 케이블",
+        "note": null
+      },
+      {
+        "google_row": 226,
+        "name": "미니벤트 직각 to 수평 C타입 패치 케이블",
+        "note": null
+      },
+      {
+        "google_row": 228,
+        "name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "note": null
+      },
+      {
+        "google_row": 229,
+        "name": "벤트 직각 to 수평 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 230,
+        "name": "패브릭 수평 to 수평 C타입 키보드 스프링 항공 케이블",
+        "note": null
+      },
+      {
+        "google_row": 231,
+        "name": "수평 to 수평 C타입 마그네틱 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 232,
+        "name": "수평 to 수평 C타입 미니플랫 케이블",
+        "note": null
+      },
+      {
+        "google_row": 233,
+        "name": "수평 USB-A to 수평 C타입 미니플랫 케이블",
+        "note": null
+      },
+      {
+        "google_row": 234,
+        "name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "note": null
+      },
+      {
+        "google_row": 235,
+        "name": "수평 USB to 수평 C타입 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 236,
+        "name": "수평 to 수평 C타입 미니 키링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 237,
+        "name": "루디 역직각 to 역직각 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 239,
+        "name": "수평 to 수평 C타입 OTG 플랫형 케이블",
+        "note": null
+      },
+      {
+        "google_row": 241,
+        "name": "네트 마그네틱 수평 to 수평 C타입 케이블",
+        "note": null
+      },
+      {
+        "google_row": 242,
+        "name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 243,
+        "name": "루디 역직각 USB-A to 역직각 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 244,
+        "name": "4in1 수평 to 수평 C타입 마그네틱 고속충전 케이블",
+        "note": null
+      },
+      {
+        "google_row": 247,
+        "name": "미니벤트 직각 to 수평 C타입 연장케이블",
+        "note": null
+      },
+      {
+        "google_row": 249,
+        "name": "수평 USB-A to 수평 마이크로B(3.0) 변환 케이블",
+        "note": null
+      },
+      {
+        "google_row": 250,
+        "name": "수평 SATA 2.5 to 수평 USB-A/C타입 SSD 케이블",
+        "note": null
+      },
+      {
+        "google_row": 252,
+        "name": "디플랫 수평 to 수평 C타입 미니케이블",
+        "note": null
+      },
+      {
+        "google_row": 253,
+        "name": "플렉스 수평 C타입 to 수평 8핀 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 254,
+        "name": "플렉스 수평 to 수평 C타입 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 255,
+        "name": "플렉스 수평 USB-A to 수평 8핀 스프링 케이블",
+        "note": null
+      },
+      {
+        "google_row": 256,
+        "name": "플렉스 수평 USB-A to 수평 C타입 스프링 케이블",
+        "note": null
+      }
+    ],
+    "info_rows": [
+      {
+        "info_row": 3,
+        "inventory_id": "16228441392",
+        "option_id": "95514703367",
+        "sku_id": "74362952",
+        "product_name": "2미터 슬림 롱케이블 오픈형 유선 이어폰",
+        "option_name": "화이트 2M"
+      },
+      {
+        "info_row": 4,
+        "inventory_id": "15334291194",
+        "option_id": "92403002626",
+        "sku_id": "59457141",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 화이트 5m"
+      },
+      {
+        "info_row": 5,
+        "inventory_id": "15334291194",
+        "option_id": "92013963858",
+        "sku_id": "57023953",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 화이트 3m"
+      },
+      {
+        "info_row": 6,
+        "inventory_id": "16271692957",
+        "option_id": "95653452216",
+        "sku_id": "75569452",
+        "product_name": "2미터 슬림 롱케이블 오픈형 유선 이어폰  3.5mm C타입 겸용",
+        "option_name": "화이트 2M"
+      },
+      {
+        "info_row": 7,
+        "inventory_id": "16296023154",
+        "option_id": "95746747849",
+        "sku_id": "76302729",
+        "product_name": "플라우드 노트 / 노트 Pro 호환 C타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 60cm"
+      },
+      {
+        "info_row": 8,
+        "inventory_id": "15600636139",
+        "option_id": "92787169856",
+        "sku_id": "61422348",
+        "product_name": "수평 USB-A to 수평 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 9,
+        "inventory_id": "16146600868",
+        "option_id": "95205496325",
+        "sku_id": "71958180",
+        "product_name": "파워 100W 직각 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 10,
+        "inventory_id": "16296023154",
+        "option_id": "95746747850",
+        "sku_id": "76302728",
+        "product_name": "플라우드 노트 / 노트 Pro 호환 C타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 100cm"
+      },
+      {
+        "info_row": 11,
+        "inventory_id": "16206333565",
+        "option_id": "95437180107",
+        "sku_id": "73728422",
+        "product_name": "듀얼라인 메인보드 USB 2.0 9핀 확장 분배 케이블",
+        "option_name": "화이트 1개"
+      },
+      {
+        "info_row": 12,
+        "inventory_id": "16193905315",
+        "option_id": "95392387524",
+        "sku_id": "73360185",
+        "product_name": "컴퓨터 CPU 온도제어 4핀 PWM 연장 케이블",
+        "option_name": "1개 27cm"
+      },
+      {
+        "info_row": 13,
+        "inventory_id": "16193905315",
+        "option_id": "95392387536",
+        "sku_id": "73360184",
+        "product_name": "컴퓨터 CPU 온도제어 4핀 PWM 연장 케이블",
+        "option_name": "1개 42cm"
+      },
+      {
+        "info_row": 14,
+        "inventory_id": "15765381510",
+        "option_id": "93597756296",
+        "sku_id": "64763639",
+        "product_name": "트리플라인 수평 to 수평 C타입 3in1동시충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 15,
+        "inventory_id": "15334291194",
+        "option_id": "91742306149",
+        "sku_id": "55450225",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 화이트 2m"
+      },
+      {
+        "info_row": 16,
+        "inventory_id": "16152715466",
+        "option_id": "95230793100",
+        "sku_id": "72118038",
+        "product_name": "3미터 슬림 롱케이블 오픈형 유선 이어폰",
+        "option_name": "블랙 3.5mm"
+      },
+      {
+        "info_row": 17,
+        "inventory_id": "16261941906",
+        "option_id": "95619759317",
+        "sku_id": "75260064",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "2분배 블랙 1개"
+      },
+      {
+        "info_row": 18,
+        "inventory_id": "15596501844",
+        "option_id": "92768382586",
+        "sku_id": "61340552",
+        "product_name": "수평 USB-B(2.0) to 수평 USB-A타입 패브릭 미디 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 19,
+        "inventory_id": "15738759032",
+        "option_id": "93468325339",
+        "sku_id": "64123646",
+        "product_name": "수평 라이즈 C타입 to 직각 Aux 오디오 스프링 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 20,
+        "inventory_id": "16146600868",
+        "option_id": "95205496323",
+        "sku_id": "71958162",
+        "product_name": "파워 100W 직각 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 21,
+        "inventory_id": "16292325552",
+        "option_id": "95732258510",
+        "sku_id": "76173473",
+        "product_name": "2미터 에어 듀얼플러그 롱케이블 유선 이어폰",
+        "option_name": "블랙 2M"
+      },
+      {
+        "info_row": 22,
+        "inventory_id": "16200516338",
+        "option_id": "95415879655",
+        "sku_id": "73543124",
+        "product_name": "메쉬타입 PWM 4핀 3핀 전원 분배 CPU쿨러 연장 케이블",
+        "option_name": "1 to 3분배 블랙 1개"
+      },
+      {
+        "info_row": 23,
+        "inventory_id": "15334291194",
+        "option_id": "94251653399",
+        "sku_id": "67737686",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 5m"
+      },
+      {
+        "info_row": 24,
+        "inventory_id": "15935259555",
+        "option_id": "94364022516",
+        "sku_id": "68214801",
+        "product_name": "수평 to 수평 USB C타입 8핀 100W 고속충전 조약돌 릴케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 25,
+        "inventory_id": "16132461420",
+        "option_id": "95149418974",
+        "sku_id": "71579153",
+        "product_name": "60W 180도 회전 라이트 수평 to 수평  C타입 고속 충전 패브릭 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 26,
+        "inventory_id": "16247448861",
+        "option_id": "95575094773",
+        "sku_id": "74835349",
+        "product_name": "수평 AUX 3.5mm to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "option_name": "블랙 1개 3m"
+      },
+      {
+        "info_row": 27,
+        "inventory_id": "16132461420",
+        "option_id": "95149418975",
+        "sku_id": "71579152",
+        "product_name": "60W 180도 회전 라이트 수평 to 수평  C타입 고속 충전 패브릭 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 28,
+        "inventory_id": "15752807099",
+        "option_id": "93536305670",
+        "sku_id": "64461184",
+        "product_name": "직각 to 수평 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 0.6m"
+      },
+      {
+        "info_row": 29,
+        "inventory_id": "16153573781",
+        "option_id": "95234106439",
+        "sku_id": "72156212",
+        "product_name": "DIY 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 30,
+        "inventory_id": "16177548294",
+        "option_id": "95328557540",
+        "sku_id": "72880621",
+        "product_name": "라이브 C타입 듀얼 오디오 출력 AUX-6.35mm 수평 to 수평 케이블",
+        "option_name": "실버 1개 5.3M"
+      },
+      {
+        "info_row": 31,
+        "inventory_id": "16271922382",
+        "option_id": "95654350300",
+        "sku_id": "75584855",
+        "product_name": "DIY 직각 to 직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 32,
+        "inventory_id": "16247448861",
+        "option_id": "95575094770",
+        "sku_id": "74835351",
+        "product_name": "수평 AUX 3.5mm to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "option_name": "블랙 1개 1.4m"
+      },
+      {
+        "info_row": 33,
+        "inventory_id": "16206333565",
+        "option_id": "95437180106",
+        "sku_id": "73728423",
+        "product_name": "듀얼라인 메인보드 USB 2.0 9핀 확장 분배 케이블",
+        "option_name": "블랙 1개"
+      },
+      {
+        "info_row": 35,
+        "inventory_id": "15886577390",
+        "option_id": "94167027279",
+        "sku_id": "67362472",
+        "product_name": "가민워치 C타입 호환 거치 패드 충전 케이블",
+        "option_name": "103cm 블랙 1개"
+      },
+      {
+        "info_row": 36,
+        "inventory_id": "16153573781",
+        "option_id": "95234106438",
+        "sku_id": "72156209",
+        "product_name": "DIY 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 37,
+        "inventory_id": "16251041878",
+        "option_id": "95586217503",
+        "sku_id": "74953623",
+        "product_name": "수평 2RCA to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "option_name": "블랙 1개 1.4m"
+      },
+      {
+        "info_row": 38,
+        "inventory_id": "15334291194",
+        "option_id": "94251653404",
+        "sku_id": "67737685",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 39,
+        "inventory_id": "16230227922",
+        "option_id": "95521028363",
+        "sku_id": "74429579",
+        "product_name": "플렉시온 540도 회전 C타입 to 수평 USB-A LED 케이블 120W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 40,
+        "inventory_id": "16261941906",
+        "option_id": "95619759320",
+        "sku_id": "75260061",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "싱글연장 블랙 1개"
+      },
+      {
+        "info_row": 41,
+        "inventory_id": "16303529484",
+        "option_id": "95775543935",
+        "sku_id": "76521117",
+        "product_name": "USB 5V to 12V 승압 4핀 쿨링팬 전원 변환 케이블",
+        "option_name": "1개 30cm"
+      },
+      {
+        "info_row": 42,
+        "inventory_id": "16343168336",
+        "option_id": "95912127153",
+        "sku_id": "78090551",
+        "product_name": "구글 핏빗 에어 호환 C타입 자석식 충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 43,
+        "inventory_id": "16370025709",
+        "option_id": "96010448130",
+        "sku_id": "79403984",
+        "product_name": "디제이아이 마이크 3/마이크 미니 2/마이크 2S 호환 자석식 6핀 충전 젠더 + C to USB-A 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 44,
+        "inventory_id": "15600636139",
+        "option_id": "92902272428",
+        "sku_id": "61858106",
+        "product_name": "수평 USB-A to 수평 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 45,
+        "inventory_id": "15738719516",
+        "option_id": "93468123761",
+        "sku_id": "64121154",
+        "product_name": "가민 2in1 충전 호환 케이블 USB-A C타입",
+        "option_name": "1개 103cm 블랙"
+      },
+      {
+        "info_row": 46,
+        "inventory_id": "15752807099",
+        "option_id": "93536305669",
+        "sku_id": "64461183",
+        "product_name": "직각 to 수평 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 47,
+        "inventory_id": "15420120653",
+        "option_id": "92053930846",
+        "sku_id": "57273933",
+        "product_name": "미니벤트 직각 to 수평 C타입 패치 케이블",
+        "option_name": "1개 블랙 17cm"
+      },
+      {
+        "info_row": 48,
+        "inventory_id": "15600927836",
+        "option_id": "92788516432",
+        "sku_id": "61433893",
+        "product_name": "수평 to 수평 C타입 2in1 더블 패브릭 케이블",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 49,
+        "inventory_id": "15894229539",
+        "option_id": "94200699485",
+        "sku_id": "67519080",
+        "product_name": "수평 C타입 to 수평 듀얼 오디오 3.5mm 고속충전 케이블",
+        "option_name": "1개 화이트 13.2cm"
+      },
+      {
+        "info_row": 50,
+        "inventory_id": "15765381510",
+        "option_id": "94394613827",
+        "sku_id": "68327316",
+        "product_name": "트리플라인 수평 to 수평 C타입 3in1동시충전 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 51,
+        "inventory_id": "16130614945",
+        "option_id": "95141642061",
+        "sku_id": "71524691",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올블랙",
+        "option_name": "1개 535mm"
+      },
+      {
+        "info_row": 52,
+        "inventory_id": "16130958692",
+        "option_id": "95142972797",
+        "sku_id": "71539405",
+        "product_name": "SATA 15핀 하드 드라이브 전원 분배 연장 케이블",
+        "option_name": "1개 455mm"
+      },
+      {
+        "info_row": 53,
+        "inventory_id": "16171357791",
+        "option_id": "95303749202",
+        "sku_id": "72681220",
+        "product_name": "에이젠 수평 3.5mm to 수평 6.35mm AUX 오디오 변환 케이블",
+        "option_name": "실버 1개 2M"
+      },
+      {
+        "info_row": 54,
+        "inventory_id": "16313485019",
+        "option_id": "95810750782",
+        "sku_id": "76818206",
+        "product_name": "2.5미터 블리츠 USB-A 롱케이블 인이어 이어폰",
+        "option_name": "USB-A단자 블랙"
+      },
+      {
+        "info_row": 55,
+        "inventory_id": "15386483428",
+        "option_id": "91934556947",
+        "sku_id": "56511696",
+        "product_name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 56,
+        "inventory_id": "15467070920",
+        "option_id": "92236584445",
+        "sku_id": "58458475",
+        "product_name": "카레이서 직각 to 역직각 C타입 고속충전 데이터 케이블",
+        "option_name": "1개 브라운 2m"
+      },
+      {
+        "info_row": 59,
+        "inventory_id": "16213251233",
+        "option_id": "95461981543",
+        "sku_id": "73912304",
+        "product_name": "벨로아 4in1 수평 to 수평 멀티 C타입 충전 케이블",
+        "option_name": "1개 연보라 1.5m"
+      },
+      {
+        "info_row": 60,
+        "inventory_id": "16273312463",
+        "option_id": "95658901743",
+        "sku_id": "75629905",
+        "product_name": "PC 메인보드 USB 3.0 19핀 헤더 연장 케이블",
+        "option_name": "1개 15cm"
+      },
+      {
+        "info_row": 61,
+        "inventory_id": "16369875561",
+        "option_id": "96009837481",
+        "sku_id": "79393150",
+        "product_name": "플라우드 노트 / 노트 프로 호환 A타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 60cm"
+      },
+      {
+        "info_row": 62,
+        "inventory_id": "15935259555",
+        "option_id": "94394926838",
+        "sku_id": "68328719",
+        "product_name": "수평 to 수평 USB C타입 8핀 100W 고속충전 조약돌 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 63,
+        "inventory_id": "16011782149",
+        "option_id": "94669368902",
+        "sku_id": "69378683",
+        "product_name": "워크릴 100W 충전 수평 to 수평 3in1 릴케이블",
+        "option_name": "1개 스페이스그레이 120cm"
+      },
+      {
+        "info_row": 64,
+        "inventory_id": "16130305407",
+        "option_id": "95140259024",
+        "sku_id": "71513045",
+        "product_name": "슬림핏 직각 to 수평 C타입 미니 플랫 케이블 100W",
+        "option_name": "1개 화이트 10cm"
+      },
+      {
+        "info_row": 65,
+        "inventory_id": "16171357791",
+        "option_id": "95303749201",
+        "sku_id": "72681221",
+        "product_name": "에이젠 수평 3.5mm to 수평 6.35mm AUX 오디오 변환 케이블",
+        "option_name": "실버 1개 1M"
+      },
+      {
+        "info_row": 66,
+        "inventory_id": "15596501844",
+        "option_id": "95422201982",
+        "sku_id": "73585323",
+        "product_name": "수평 USB-B(2.0) to 수평 USB-A타입 패브릭 미디 케이블",
+        "option_name": "1개 5m"
+      },
+      {
+        "info_row": 67,
+        "inventory_id": "16261941906",
+        "option_id": "95619759314",
+        "sku_id": "75260065",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "3분배 화이트 1개"
+      },
+      {
+        "info_row": 68,
+        "inventory_id": "15386483428",
+        "option_id": "92060950521",
+        "sku_id": "57327819",
+        "product_name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 그레이 3m"
+      },
+      {
+        "info_row": 69,
+        "inventory_id": "15425491922",
+        "option_id": "92075180610",
+        "sku_id": "57396336",
+        "product_name": "디플랫 역직각 to 수평 C타입 미니 케이블",
+        "option_name": "1개 블랙 14cm"
+      },
+      {
+        "info_row": 70,
+        "inventory_id": "15454471489",
+        "option_id": "92187301636",
+        "sku_id": "58157613",
+        "product_name": "수평 C타입 to 수평 8핀 미니 키링 케이블",
+        "option_name": "1개 그레이 11.5cm"
+      },
+      {
+        "info_row": 71,
+        "inventory_id": "15600607987",
+        "option_id": "92787116879",
+        "sku_id": "61422087",
+        "product_name": "수평 USB-A to 수평 8핀 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 0.2m"
+      },
+      {
+        "info_row": 72,
+        "inventory_id": "15929767849",
+        "option_id": "94341878437",
+        "sku_id": "68138495",
+        "product_name": "슬라이드 수평 to 수평 C타입 240W 고속충전 마그네틱 릴케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 73,
+        "inventory_id": "15948246329",
+        "option_id": "94416975156",
+        "sku_id": "68402604",
+        "product_name": "6Gbps 고속전송 노바 수평 to 수평 SATA 3.0 패브릭 케이블 화이트",
+        "option_name": "1개 50cm"
+      },
+      {
+        "info_row": 74,
+        "inventory_id": "16018537165",
+        "option_id": "94696450176",
+        "sku_id": "69472612",
+        "product_name": "듀오링크 수평 to 수평 USB 2.0 듀얼 연장 케이블",
+        "option_name": "1개 블랙 130mm"
+      },
+      {
+        "info_row": 75,
+        "inventory_id": "16130614945",
+        "option_id": "95141642059",
+        "sku_id": "71524690",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올블랙",
+        "option_name": "1개 300mm"
+      },
+      {
+        "info_row": 76,
+        "inventory_id": "16177548294",
+        "option_id": "95328557538",
+        "sku_id": "72880622",
+        "product_name": "라이브 C타입 듀얼 오디오 출력 AUX-6.35mm 수평 to 수평 케이블",
+        "option_name": "실버 1개 2.3M"
+      },
+      {
+        "info_row": 77,
+        "inventory_id": "16230227922",
+        "option_id": "95521676859",
+        "sku_id": "74434759",
+        "product_name": "플렉시온 540도 회전 C타입 to 수평 USB-A LED 케이블 120W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 78,
+        "inventory_id": "16271690177",
+        "option_id": "95653440321",
+        "sku_id": "75569258",
+        "product_name": "3미터 슬림 롱케이블 오픈형 유선 이어폰  3.5mm C타입 겸용",
+        "option_name": "블랙 3M"
+      },
+      {
+        "info_row": 79,
+        "inventory_id": "16282682376",
+        "option_id": "95693024839",
+        "sku_id": "75937233",
+        "product_name": "직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 블랙 15cm"
+      },
+      {
+        "info_row": 80,
+        "inventory_id": "15381125758",
+        "option_id": "91916079401",
+        "sku_id": "56390789",
+        "product_name": "루디 역직각 to 역직각 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 81,
+        "inventory_id": "15334291194",
+        "option_id": "94251653398",
+        "sku_id": "67737687",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 82,
+        "inventory_id": "15979575625",
+        "option_id": "94539303516",
+        "sku_id": "68846101",
+        "product_name": "맥스턴 3in1 180도 회전 to 수평 120W 고속충전 멀티단자 케이블",
+        "option_name": "1개 오렌지 1.2m"
+      },
+      {
+        "info_row": 83,
+        "inventory_id": "16127094253",
+        "option_id": "95127258452",
+        "sku_id": "71421003",
+        "product_name": "다트 수평 to 수평 C타입 240W 디스플레이 실리콘 초고속충전 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 84,
+        "inventory_id": "16142661553",
+        "option_id": "95190520223",
+        "sku_id": "71840792",
+        "product_name": "엘리온 USB4 썬더볼트4 호환 수평 to 수평 C타입 케이블 240W 40Gbps 8K",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 85,
+        "inventory_id": "16200516338",
+        "option_id": "95415879656",
+        "sku_id": "73543122",
+        "product_name": "메쉬타입 PWM 4핀 3핀 전원 분배 CPU쿨러 연장 케이블",
+        "option_name": "1 to 2분배 블랙 1개"
+      },
+      {
+        "info_row": 86,
+        "inventory_id": "16303529484",
+        "option_id": "95775543938",
+        "sku_id": "76521116",
+        "product_name": "USB 5V to 12V 승압 4핀 쿨링팬 전원 변환 케이블",
+        "option_name": "1개 50cm"
+      },
+      {
+        "info_row": 87,
+        "inventory_id": "16306259373",
+        "option_id": "95785518368",
+        "sku_id": "76609713",
+        "product_name": "역직각 C타입 to 수평 마이크로 5핀 DIY 플랫 케이블",
+        "option_name": "1개 블랙 30cm"
+      },
+      {
+        "info_row": 88,
+        "inventory_id": "15332899355",
+        "option_id": "91737116184",
+        "sku_id": "55410021",
+        "product_name": "루디 역직각 USB-A to 역직각 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 89,
+        "inventory_id": "15522767968",
+        "option_id": "92468730762",
+        "sku_id": "59797603",
+        "product_name": "파워플로우 역직각 USB to 수평 C타입 케이블",
+        "option_name": "1개 블랙 0.5m"
+      },
+      {
+        "info_row": 90,
+        "inventory_id": "15927215904",
+        "option_id": "94332133822",
+        "sku_id": "68096084",
+        "product_name": "수평 to 수평 USB C타입 8핀 5핀 올인원 캐리어 릴케이블",
+        "option_name": "1개 화이트 1.2m"
+      },
+      {
+        "info_row": 91,
+        "inventory_id": "15929767849",
+        "option_id": "94393684876",
+        "sku_id": "68322785",
+        "product_name": "슬라이드 수평 to 수평 C타입 240W 고속충전 마그네틱 릴케이블",
+        "option_name": "1개 차콜 1m"
+      },
+      {
+        "info_row": 92,
+        "inventory_id": "16127094253",
+        "option_id": "95127258453",
+        "sku_id": "71421002",
+        "product_name": "다트 수평 to 수평 C타입 240W 디스플레이 실리콘 초고속충전 케이블",
+        "option_name": "1개 그린 1.2m"
+      },
+      {
+        "info_row": 93,
+        "inventory_id": "16130305407",
+        "option_id": "95140259020",
+        "sku_id": "71513046",
+        "product_name": "슬림핏 직각 to 수평 C타입 미니 플랫 케이블 100W",
+        "option_name": "1개 화이트 20cm"
+      },
+      {
+        "info_row": 94,
+        "inventory_id": "16130614945",
+        "option_id": "95141642063",
+        "sku_id": "71524693",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올블랙",
+        "option_name": "1개 315mm"
+      },
+      {
+        "info_row": 95,
+        "inventory_id": "16176361920",
+        "option_id": "95323507108",
+        "sku_id": "72849653",
+        "product_name": "플랫플렉스 직각 to 직각 C타입 미니 케이블 66w",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 96,
+        "inventory_id": "16251041878",
+        "option_id": "95586217502",
+        "sku_id": "74953622",
+        "product_name": "수평 2RCA to 수평 2RCA 스피커 앰프 연결 오디오 케이블",
+        "option_name": "블랙 1개 2.7m"
+      },
+      {
+        "info_row": 97,
+        "inventory_id": "15467070920",
+        "option_id": "92236584455",
+        "sku_id": "58458476",
+        "product_name": "카레이서 직각 to 역직각 C타입 고속충전 데이터 케이블",
+        "option_name": "1개 브라운 1m"
+      },
+      {
+        "info_row": 98,
+        "inventory_id": "15477571011",
+        "option_id": "92278071112",
+        "sku_id": "58694008",
+        "product_name": "USB A타입 마그네틱 샥즈 오픈런 이어폰 호환 고속충전 케이블",
+        "option_name": "블랙"
+      },
+      {
+        "info_row": 99,
+        "inventory_id": "15543735725",
+        "option_id": "92555701534",
+        "sku_id": "60264775",
+        "product_name": "트론 수평 USB 3.0 C타입 to 수평 SATA 2.5 3.5형 케이블",
+        "option_name": "1개 블랙 25cm"
+      },
+      {
+        "info_row": 100,
+        "inventory_id": "15808249659",
+        "option_id": "93804543403",
+        "sku_id": "65671098",
+        "product_name": "4핀 5포트 PWM 팬 허브 전원 확장 케이블",
+        "option_name": "1개 0.4M"
+      },
+      {
+        "info_row": 101,
+        "inventory_id": "15610340128",
+        "option_id": "94275600841",
+        "sku_id": "67856454",
+        "product_name": "Y자형 수평 to 수평 C타입 2in1 듀얼헤드 오디오 케이블",
+        "option_name": "1개 블루그레이 13.5cm"
+      },
+      {
+        "info_row": 102,
+        "inventory_id": "16127078129",
+        "option_id": "95127232829",
+        "sku_id": "71420638",
+        "product_name": "240W 수평 to 수평 C타입 스냅 초고속충전 마그넷 숏 케이블 PD 3.1",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 103,
+        "inventory_id": "16153573781",
+        "option_id": "95234106444",
+        "sku_id": "72156210",
+        "product_name": "DIY 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 104,
+        "inventory_id": "16152715466",
+        "option_id": "95467650988",
+        "sku_id": "73958087",
+        "product_name": "3미터 슬림 롱케이블 오픈형 유선 이어폰",
+        "option_name": "레드 3.5mm"
+      },
+      {
+        "info_row": 105,
+        "inventory_id": "16261941906",
+        "option_id": "95619759316",
+        "sku_id": "75260062",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "4분배 블랙 1개"
+      },
+      {
+        "info_row": 106,
+        "inventory_id": "16270664553",
+        "option_id": "95649699134",
+        "sku_id": "75534391",
+        "product_name": "PC 메인보드 프론트 패널 전원 리셋 LED 분배 케이블 4종 세트",
+        "option_name": "1개 12cm"
+      },
+      {
+        "info_row": 107,
+        "inventory_id": "16271690177",
+        "option_id": "95653440320",
+        "sku_id": "75569259",
+        "product_name": "3미터 슬림 롱케이블 오픈형 유선 이어폰  3.5mm C타입 겸용",
+        "option_name": "레드 3M"
+      },
+      {
+        "info_row": 108,
+        "inventory_id": "15537630428",
+        "option_id": "92531133705",
+        "sku_id": "60139937",
+        "product_name": "코일형 항공 케이블 와인더",
+        "option_name": "1개 15cm 실버"
+      },
+      {
+        "info_row": 109,
+        "inventory_id": "15610340128",
+        "option_id": "92835072808",
+        "sku_id": "61584100",
+        "product_name": "Y자형 수평 to 수평 C타입 2in1 듀얼헤드 오디오 케이블",
+        "option_name": "1개 화이트 13.5cm"
+      },
+      {
+        "info_row": 111,
+        "inventory_id": "16003874607",
+        "option_id": "94638393714",
+        "sku_id": "69233958",
+        "product_name": "2in1 수평 to 수평 C타입 초고속 충전 듀얼라인 멀티 케이블 100W PD",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 112,
+        "inventory_id": "16127094253",
+        "option_id": "95127258454",
+        "sku_id": "71421004",
+        "product_name": "다트 수평 to 수평 C타입 240W 디스플레이 실리콘 초고속충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 113,
+        "inventory_id": "16142501086",
+        "option_id": "95189925636",
+        "sku_id": "71834127",
+        "product_name": "퍼플스트림 100W 수평 USB A to 수평 C타입 올인원 고속충전 케이블",
+        "option_name": "1개 퍼플 0.5m"
+      },
+      {
+        "info_row": 114,
+        "inventory_id": "16142661553",
+        "option_id": "95190520225",
+        "sku_id": "71840793",
+        "product_name": "엘리온 USB4 썬더볼트4 호환 수평 to 수평 C타입 케이블 240W 40Gbps 8K",
+        "option_name": "1개 화이트 1.5m"
+      },
+      {
+        "info_row": 115,
+        "inventory_id": "16419507140",
+        "option_id": "96204128776",
+        "sku_id": "82259594",
+        "product_name": "파워 100W 직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 5m"
+      },
+      {
+        "info_row": 116,
+        "inventory_id": "15308112362",
+        "option_id": "91652627525",
+        "sku_id": "54757328",
+        "product_name": "플렉스 수평 USB-A to 수평 8핀 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 117,
+        "inventory_id": "15315153191",
+        "option_id": "91676727755",
+        "sku_id": "54943261",
+        "product_name": "수평 SATA 2.5 to 수평 USB-A/C타입 SSD 케이블",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 118,
+        "inventory_id": "15465040472",
+        "option_id": "92229013089",
+        "sku_id": "58403706",
+        "product_name": "디스플레이 C to C타입 패브릭 케이블",
+        "option_name": "1개 1m 블랙"
+      },
+      {
+        "info_row": 119,
+        "inventory_id": "15570294199",
+        "option_id": "92671604193",
+        "sku_id": "60896435",
+        "product_name": "U자형 to 수평 C타입 패브릭 케이블",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 121,
+        "inventory_id": "15780930916",
+        "option_id": "93671088244",
+        "sku_id": "65101599",
+        "product_name": "수평 to 수평 XLR 캐논 케이블 나일론 마이크 스피커 연결선",
+        "option_name": "1개 1M"
+      },
+      {
+        "info_row": 122,
+        "inventory_id": "16130614945",
+        "option_id": "95141642058",
+        "sku_id": "71524692",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올블랙",
+        "option_name": "1개 307mm"
+      },
+      {
+        "info_row": 123,
+        "inventory_id": "16138591136",
+        "option_id": "95174075611",
+        "sku_id": "71723380",
+        "product_name": "메카닉 100W PD 고속 충전 수평 to 수평 C타입 디지털 LED 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 124,
+        "inventory_id": "16142713317",
+        "option_id": "95190712659",
+        "sku_id": "71843699",
+        "product_name": "코스모 4in1 수평 to 수평 C타입 디스플레이 고속충전 패브릭 케이블 240W",
+        "option_name": "1개 다크베이지 1.5m"
+      },
+      {
+        "info_row": 125,
+        "inventory_id": "16176356919",
+        "option_id": "95323481988",
+        "sku_id": "72849280",
+        "product_name": "플랫플랙스 직각 to 수평 C타입 미니 연장 케이블 66w",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 126,
+        "inventory_id": "16193905315",
+        "option_id": "95392387525",
+        "sku_id": "73360186",
+        "product_name": "컴퓨터 CPU 온도제어 4핀 PWM 연장 케이블",
+        "option_name": "1개 82cm"
+      },
+      {
+        "info_row": 127,
+        "inventory_id": "16261941906",
+        "option_id": "95619759315",
+        "sku_id": "75260063",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "4분배 화이트 1개"
+      },
+      {
+        "info_row": 128,
+        "inventory_id": "16261941906",
+        "option_id": "95619759318",
+        "sku_id": "75260060",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "3분배 블랙 1개"
+      },
+      {
+        "info_row": 129,
+        "inventory_id": "16282682376",
+        "option_id": "95693024837",
+        "sku_id": "75937234",
+        "product_name": "직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 130,
+        "inventory_id": "15420169120",
+        "option_id": "92054147554",
+        "sku_id": "57277096",
+        "product_name": "이지캐리 수평 to 수평 C타입 미니 케이블",
+        "option_name": "1개 블랙 15cm"
+      },
+      {
+        "info_row": 132,
+        "inventory_id": "15924822844",
+        "option_id": "94323097572",
+        "sku_id": "68060034",
+        "product_name": "텔레스코픽 수평 to 수평 C타입 240W 고속충전 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 133,
+        "inventory_id": "15937130503",
+        "option_id": "94371967678",
+        "sku_id": "68242281",
+        "product_name": "100W 고속충전 수평 to 수평 C타입 빌트인 거치대 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 134,
+        "inventory_id": "16006929302",
+        "option_id": "94650259753",
+        "sku_id": "69294089",
+        "product_name": "스탠딩 꺾임형 C타입 to 수평 C타입 240W 초고속 충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 135,
+        "inventory_id": "16127094253",
+        "option_id": "95127258457",
+        "sku_id": "71421005",
+        "product_name": "다트 수평 to 수평 C타입 240W 디스플레이 실리콘 초고속충전 케이블",
+        "option_name": "1개 그린 2m"
+      },
+      {
+        "info_row": 136,
+        "inventory_id": "16176361920",
+        "option_id": "95323507107",
+        "sku_id": "72849652",
+        "product_name": "플랫플렉스 직각 to 직각 C타입 미니 케이블 66w",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 137,
+        "inventory_id": "16203912528",
+        "option_id": "95428998550",
+        "sku_id": "73655553",
+        "product_name": "컴퓨터 쿨링팬 SATA to 3핀 4핀 확장 분배 케이블",
+        "option_name": "5분배 블랙 1개"
+      },
+      {
+        "info_row": 138,
+        "inventory_id": "16294463785",
+        "option_id": "95740522816",
+        "sku_id": "76243719",
+        "product_name": "소닉 6.35mm 직각 to 수평 오디오 케이블",
+        "option_name": "1개 3M"
+      },
+      {
+        "info_row": 139,
+        "inventory_id": "16297899137",
+        "option_id": "95753869031",
+        "sku_id": "76369240",
+        "product_name": "DAC칩 내장 수평 C타입 to 수평 3.5mm 연결 케이블",
+        "option_name": "1개 블랙 11.6cm"
+      },
+      {
+        "info_row": 140,
+        "inventory_id": "16306259373",
+        "option_id": "95785518365",
+        "sku_id": "76609712",
+        "product_name": "역직각 C타입 to 수평 마이크로 5핀 DIY 플랫 케이블",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 141,
+        "inventory_id": "16368524453",
+        "option_id": "96004624646",
+        "sku_id": "79307552",
+        "product_name": "링코 수평 USB-A to 수평 3.5mm 숏케이블",
+        "option_name": "1개 블루그레이 15.7cm"
+      },
+      {
+        "info_row": 142,
+        "inventory_id": "16391557169",
+        "option_id": "96085550725",
+        "sku_id": "80827518",
+        "product_name": "화웨이밴드 10/11/11pro 호환 C타입 자석충전 케이블",
+        "option_name": "블랙 1개 1m"
+      },
+      {
+        "info_row": 143,
+        "inventory_id": "14226226592",
+        "option_id": "86492752366",
+        "sku_id": "36970118",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 5. 캐릭터 충전케이블 보호캡-핑크래빗 2P"
+      },
+      {
+        "info_row": 144,
+        "inventory_id": "15306521179",
+        "option_id": "91647104122",
+        "sku_id": "54705824",
+        "product_name": "트로피칼 C to C타입 스프링 케이블",
+        "option_name": "1개 1.6m 옐로우마린"
+      },
+      {
+        "info_row": 145,
+        "inventory_id": "15317386190",
+        "option_id": "91806288332",
+        "sku_id": "55870135",
+        "product_name": "수평 USB-A to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 그레이 1m"
+      },
+      {
+        "info_row": 146,
+        "inventory_id": "15393798864",
+        "option_id": "91959929813",
+        "sku_id": "56664097",
+        "product_name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 147,
+        "inventory_id": "15537630428",
+        "option_id": "92531133713",
+        "sku_id": "60139938",
+        "product_name": "코일형 항공 케이블 와인더",
+        "option_name": "1개 15cm 블랙"
+      },
+      {
+        "info_row": 148,
+        "inventory_id": "15632600977",
+        "option_id": "92940851192",
+        "sku_id": "62026567",
+        "product_name": "유니온 수평 C타입 to 수평 오디오 컨버터 케이블",
+        "option_name": "1개 실버 13cm"
+      },
+      {
+        "info_row": 149,
+        "inventory_id": "15908549940",
+        "option_id": "94259521542",
+        "sku_id": "67774233",
+        "product_name": "블레이즈 수평 to 수평 C타입 120G USB4 2.0 8k 케이블",
+        "option_name": "1개 옐로우 130mm"
+      },
+      {
+        "info_row": 150,
+        "inventory_id": "15998154787",
+        "option_id": "94614131035",
+        "sku_id": "69156251",
+        "product_name": "터보레일 역직각 to 수평 C타입 고속케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 151,
+        "inventory_id": "15999015385",
+        "option_id": "94617509691",
+        "sku_id": "69177864",
+        "product_name": "수평 USB-A to 수평 C타입 스탠드 코브라 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 152,
+        "inventory_id": "16022783222",
+        "option_id": "94713105786",
+        "sku_id": "69548530",
+        "product_name": "트윈라인 수평 to 수평 C타입 2in1 Y자형 충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 153,
+        "inventory_id": "16171357791",
+        "option_id": "95303749204",
+        "sku_id": "72681222",
+        "product_name": "에이젠 수평 3.5mm to 수평 6.35mm AUX 오디오 변환 케이블",
+        "option_name": "실버 1개 3M"
+      },
+      {
+        "info_row": 154,
+        "inventory_id": "16200516338",
+        "option_id": "95415879658",
+        "sku_id": "73543123",
+        "product_name": "메쉬타입 PWM 4핀 3핀 전원 분배 CPU쿨러 연장 케이블",
+        "option_name": "1 to 4분배 블랙 1개"
+      },
+      {
+        "info_row": 155,
+        "inventory_id": "16261941906",
+        "option_id": "95619759321",
+        "sku_id": "75260067",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "싱글연장 화이트 1개"
+      },
+      {
+        "info_row": 156,
+        "inventory_id": "16413008240",
+        "option_id": "96181291415",
+        "sku_id": "81908374",
+        "product_name": "DJI 마이크3/마이크 미니2/마이크 미니2S 호환 C타입 일체형 6핀 충전케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 157,
+        "inventory_id": "15331852106",
+        "option_id": "91733297297",
+        "sku_id": "55384686",
+        "product_name": "4in1 수평 to 수평 C타입 마그네틱 고속충전 케이블",
+        "option_name": "1개 그레이 1.2m"
+      },
+      {
+        "info_row": 158,
+        "inventory_id": "15386730896",
+        "option_id": "91935463563",
+        "sku_id": "56519807",
+        "product_name": "수평 USB-A to 수평 C타입 미니플랫 케이블",
+        "option_name": "1개 옐로우 13.8cm"
+      },
+      {
+        "info_row": 159,
+        "inventory_id": "15531834897",
+        "option_id": "92507559127",
+        "sku_id": "59981937",
+        "product_name": "크롬 USB-A to 8핀 슈퍼 롱 충전 케이블",
+        "option_name": "1개 8m 그레이"
+      },
+      {
+        "info_row": 161,
+        "inventory_id": "15323177870",
+        "option_id": "92741091647",
+        "sku_id": "61238008",
+        "product_name": "미니벤트 직각 to 수평 C타입 연장케이블",
+        "option_name": "1개 블랙 52cm"
+      },
+      {
+        "info_row": 162,
+        "inventory_id": "15929221596",
+        "option_id": "94339820047",
+        "sku_id": "68126036",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 블랙 42mm"
+      },
+      {
+        "info_row": 163,
+        "inventory_id": "15936820840",
+        "option_id": "94370787575",
+        "sku_id": "68235903",
+        "product_name": "코디온 120W 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 차콜 1m"
+      },
+      {
+        "info_row": 164,
+        "inventory_id": "15942912708",
+        "option_id": "94394889716",
+        "sku_id": "68328738",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-R",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 165,
+        "inventory_id": "15965334104",
+        "option_id": "94484045425",
+        "sku_id": "68648413",
+        "product_name": "멀티플렉스 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 166,
+        "inventory_id": "15967661681",
+        "option_id": "94498281863",
+        "sku_id": "68685786",
+        "product_name": "스위치전원 USB 3.0 고속 연장케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 167,
+        "inventory_id": "15531843227",
+        "option_id": "94585288201",
+        "sku_id": "69038103",
+        "product_name": "크롬 수평 USB-A to 수평 C타입 슈퍼 롱 충전 케이블",
+        "option_name": "1개 그레이 3m"
+      },
+      {
+        "info_row": 168,
+        "inventory_id": "15929221596",
+        "option_id": "94605025135",
+        "sku_id": "69115127",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 블랙 60mm"
+      },
+      {
+        "info_row": 169,
+        "inventory_id": "16011792941",
+        "option_id": "94669407930",
+        "sku_id": "69378966",
+        "product_name": "8K UHD 수평 DP to 수평 DP 고강도 패브릭 케이블 1.4v 양방향 디스플레이 포트",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 170,
+        "inventory_id": "16040157841",
+        "option_id": "94781337773",
+        "sku_id": "69832617",
+        "product_name": "롤싱크 100W PD 수평 to 수평 C타입 충전 릴케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 171,
+        "inventory_id": "16138604209",
+        "option_id": "95174131923",
+        "sku_id": "71723735",
+        "product_name": "코벨 수평 USB-A to 역직각 C타입 6A 고속충전 패브릭 케이블 최대 66W",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 172,
+        "inventory_id": "16159667782",
+        "option_id": "95258294017",
+        "sku_id": "72340397",
+        "product_name": "파인그립 수평 USB-A to 역직각 C타입 고속충전 패브릭 케이블 60W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 173,
+        "inventory_id": "16193905315",
+        "option_id": "95392387523",
+        "sku_id": "73360187",
+        "product_name": "컴퓨터 CPU 온도제어 4핀 PWM 연장 케이블",
+        "option_name": "1개 62cm"
+      },
+      {
+        "info_row": 174,
+        "inventory_id": "16203912528",
+        "option_id": "95428998553",
+        "sku_id": "73655550",
+        "product_name": "컴퓨터 쿨링팬 SATA to 3핀 4핀 확장 분배 케이블",
+        "option_name": "2분배 블랙 1개"
+      },
+      {
+        "info_row": 175,
+        "inventory_id": "16271922382",
+        "option_id": "95654350299",
+        "sku_id": "75584856",
+        "product_name": "DIY 직각 to 직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 176,
+        "inventory_id": "16271926744",
+        "option_id": "95654382239",
+        "sku_id": "75585173",
+        "product_name": "DIY 역직각 to 역직각 C타입  플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 177,
+        "inventory_id": "16279697958",
+        "option_id": "95681686417",
+        "sku_id": "75835864",
+        "product_name": "잼링크 일렉 기타 이펙터 직각 to 직각 플랫 패치 케이블",
+        "option_name": "1개 30cm"
+      },
+      {
+        "info_row": 178,
+        "inventory_id": "16292325552",
+        "option_id": "95732258509",
+        "sku_id": "76173474",
+        "product_name": "2미터 에어 듀얼플러그 롱케이블 유선 이어폰",
+        "option_name": "화이트 2M"
+      },
+      {
+        "info_row": 179,
+        "inventory_id": "16306259373",
+        "option_id": "95785518369",
+        "sku_id": "76609711",
+        "product_name": "역직각 C타입 to 수평 마이크로 5핀 DIY 플랫 케이블",
+        "option_name": "1개 블랙 100cm"
+      },
+      {
+        "info_row": 181,
+        "inventory_id": "16369875561",
+        "option_id": "96009837480",
+        "sku_id": "79393151",
+        "product_name": "플라우드 노트 / 노트 프로 호환 A타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 100cm"
+      },
+      {
+        "info_row": 182,
+        "inventory_id": "16391553965",
+        "option_id": "96085529048",
+        "sku_id": "80827297",
+        "product_name": "화웨이밴드 10/11/11pro 호환 USB-A타입 자석충전 케이블",
+        "option_name": "0.6m 블랙 1개"
+      },
+      {
+        "info_row": 183,
+        "inventory_id": "16398135028",
+        "option_id": "96116368275",
+        "sku_id": "81179789",
+        "product_name": "로키드 스마트안경 호환 3핀 자석 충전 케이블",
+        "option_name": "1개 USB-A 수(M) 120cm"
+      },
+      {
+        "info_row": 184,
+        "inventory_id": "16419507140",
+        "option_id": "96204128779",
+        "sku_id": "82259595",
+        "product_name": "파워 100W 직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 185,
+        "inventory_id": "15487865091",
+        "option_id": "92321113945",
+        "sku_id": "58952786",
+        "product_name": "4in1 데저트 스프링 충전 케이블",
+        "option_name": "1개 1.5m 그레이"
+      },
+      {
+        "info_row": 186,
+        "inventory_id": "15544268689",
+        "option_id": "92557720836",
+        "sku_id": "60289335",
+        "product_name": "펄스 수평 USB-C A타입 3.0 to 수평 SATA 2.5 3.5형 변환 케이블",
+        "option_name": "1개 블랙 23cm"
+      },
+      {
+        "info_row": 187,
+        "inventory_id": "15600636139",
+        "option_id": "92787169839",
+        "sku_id": "61422347",
+        "product_name": "수평 USB-A to 수평 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 0.2m"
+      },
+      {
+        "info_row": 188,
+        "inventory_id": "15643593906",
+        "option_id": "92996966977",
+        "sku_id": "62229846",
+        "product_name": "익스트림 수평 to 수평 DP 2.1 케이블",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 189,
+        "inventory_id": "15751030640",
+        "option_id": "93527432179",
+        "sku_id": "64415351",
+        "product_name": "직각 USB-A to 수평 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 190,
+        "inventory_id": "15883057594",
+        "option_id": "94151528651",
+        "sku_id": "67286095",
+        "product_name": "100W 고속충전 C타입 서피스 호환 마그네틱 케이블",
+        "option_name": "1.8m 블랙 1개"
+      },
+      {
+        "info_row": 191,
+        "inventory_id": "15334291194",
+        "option_id": "94251653396",
+        "sku_id": "67737688",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 192,
+        "inventory_id": "15921674845",
+        "option_id": "94311596403",
+        "sku_id": "68006672",
+        "product_name": "쓰리웨이 수평 to 수평 C타입 데이터전송 충전케이블",
+        "option_name": "1개 메탈실버 0.264m"
+      },
+      {
+        "info_row": 193,
+        "inventory_id": "15924822844",
+        "option_id": "94323097571",
+        "sku_id": "68060033",
+        "product_name": "텔레스코픽 수평 to 수평 C타입 240W 고속충전 릴케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 194,
+        "inventory_id": "15938896855",
+        "option_id": "94379273537",
+        "sku_id": "68272982",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-G",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 195,
+        "inventory_id": "15936820840",
+        "option_id": "94586409327",
+        "sku_id": "69047036",
+        "product_name": "코디온 120W 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 차콜 2m"
+      },
+      {
+        "info_row": 196,
+        "inventory_id": "15981954248",
+        "option_id": "94657888547",
+        "sku_id": "69326494",
+        "product_name": "자석형 마그네틱 역직각 to 수평 C타입 PD65W 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 197,
+        "inventory_id": "16027476285",
+        "option_id": "94731315819",
+        "sku_id": "69630360",
+        "product_name": "4K UHD 고화질 수평 C타입 to 수평 HDMI 단방향 케이블",
+        "option_name": "1개 1.8m"
+      },
+      {
+        "info_row": 198,
+        "inventory_id": "16130958692",
+        "option_id": "95142972799",
+        "sku_id": "71539404",
+        "product_name": "SATA 15핀 하드 드라이브 전원 분배 연장 케이블",
+        "option_name": "1개 378mm"
+      },
+      {
+        "info_row": 199,
+        "inventory_id": "16138604209",
+        "option_id": "95174131924",
+        "sku_id": "71723734",
+        "product_name": "코벨 수평 USB-A to 역직각 C타입 6A 고속충전 패브릭 케이블 최대 66W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 200,
+        "inventory_id": "16177548294",
+        "option_id": "95328557541",
+        "sku_id": "72880620",
+        "product_name": "라이브 C타입 듀얼 오디오 출력 AUX-6.35mm 수평 to 수평 케이블",
+        "option_name": "실버 1개 1.3M"
+      },
+      {
+        "info_row": 201,
+        "inventory_id": "16203912528",
+        "option_id": "95428998549",
+        "sku_id": "73655552",
+        "product_name": "컴퓨터 쿨링팬 SATA to 3핀 4핀 확장 분배 케이블",
+        "option_name": "싱글연장 블랙 1개"
+      },
+      {
+        "info_row": 202,
+        "inventory_id": "16203912528",
+        "option_id": "95428998552",
+        "sku_id": "73655549",
+        "product_name": "컴퓨터 쿨링팬 SATA to 3핀 4핀 확장 분배 케이블",
+        "option_name": "3분배 블랙 1개"
+      },
+      {
+        "info_row": 203,
+        "inventory_id": "15929221596",
+        "option_id": "95542587035",
+        "sku_id": "74588676",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 레드 60mm"
+      },
+      {
+        "info_row": 204,
+        "inventory_id": "16130305407",
+        "option_id": "95617416858",
+        "sku_id": "75229987",
+        "product_name": "슬림핏 직각 to 수평 C타입 미니 플랫 케이블 100W",
+        "option_name": "1개 화이트 50cm"
+      },
+      {
+        "info_row": 205,
+        "inventory_id": "16130305407",
+        "option_id": "95617416859",
+        "sku_id": "75229988",
+        "product_name": "슬림핏 직각 to 수평 C타입 미니 플랫 케이블 100W",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 206,
+        "inventory_id": "16261929397",
+        "option_id": "95619712862",
+        "sku_id": "75259361",
+        "product_name": "슬릭 C타입 to 3.5mm 직각 연결 숏케이블",
+        "option_name": "1개 블랙 12cm"
+      },
+      {
+        "info_row": 207,
+        "inventory_id": "16261941906",
+        "option_id": "95619759322",
+        "sku_id": "75260066",
+        "product_name": "슬리빙 PWM 쿨링팬 4핀 3핀 분배형 연장 케이블",
+        "option_name": "2분배 화이트 1개"
+      },
+      {
+        "info_row": 208,
+        "inventory_id": "16265328851",
+        "option_id": "95631735127",
+        "sku_id": "75383610",
+        "product_name": "4핀 4포트 PWM 팬 허브 전원 확장 케이블",
+        "option_name": "40cm 블랙 1개"
+      },
+      {
+        "info_row": 209,
+        "inventory_id": "16271922382",
+        "option_id": "95654350298",
+        "sku_id": "75584858",
+        "product_name": "DIY 직각 to 직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 210,
+        "inventory_id": "16292330398",
+        "option_id": "95732275424",
+        "sku_id": "76173590",
+        "product_name": "3미터 에어 듀얼플러그 롱케이블 유선 이어폰",
+        "option_name": "블랙 3M"
+      },
+      {
+        "info_row": 211,
+        "inventory_id": "16292330398",
+        "option_id": "95732275425",
+        "sku_id": "76173589",
+        "product_name": "3미터 에어 듀얼플러그 롱케이블 유선 이어폰",
+        "option_name": "화이트 3M"
+      },
+      {
+        "info_row": 212,
+        "inventory_id": "16294463785",
+        "option_id": "95740522817",
+        "sku_id": "76243720",
+        "product_name": "소닉 6.35mm 직각 to 수평 오디오 케이블",
+        "option_name": "1개 1.5M"
+      },
+      {
+        "info_row": 213,
+        "inventory_id": "16316499119",
+        "option_id": "95821369420",
+        "sku_id": "76930603",
+        "product_name": "씬링크 수평 to 수평 C타입 100W 20Gbps 8K60Hz 플랫 연장 케이블",
+        "option_name": "1개 블랙 80cm"
+      },
+      {
+        "info_row": 214,
+        "inventory_id": "16316499119",
+        "option_id": "95821369421",
+        "sku_id": "76930604",
+        "product_name": "씬링크 수평 to 수평 C타입 100W 20Gbps 8K60Hz 플랫 연장 케이블",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 215,
+        "inventory_id": "16343168336",
+        "option_id": "95912127155",
+        "sku_id": "78090552",
+        "product_name": "구글 핏빗 에어 호환 C타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 216,
+        "inventory_id": "16343173372",
+        "option_id": "95912145329",
+        "sku_id": "78090678",
+        "product_name": "구글 핏빗 에어 호환 A타입 자석식 충전 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 217,
+        "inventory_id": "16370286912",
+        "option_id": "96011306170",
+        "sku_id": "79425814",
+        "product_name": "와이드형 PC용 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 블랙"
+      },
+      {
+        "info_row": 218,
+        "inventory_id": "15309350006",
+        "option_id": "91656802885",
+        "sku_id": "54789859",
+        "product_name": "디플랫 수평 to 수평 C타입 미니케이블",
+        "option_name": "1개 옐로우 13cm"
+      },
+      {
+        "info_row": 219,
+        "inventory_id": "15334291194",
+        "option_id": "91742306142",
+        "sku_id": "55450227",
+        "product_name": "패브릭 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 220,
+        "inventory_id": "15385047192",
+        "option_id": "91929786180",
+        "sku_id": "56475123",
+        "product_name": "C타입 서피스 호환 마그네틱 충전 케이블",
+        "option_name": "1개 1m 블랙"
+      },
+      {
+        "info_row": 221,
+        "inventory_id": "15393881355",
+        "option_id": "91960223067",
+        "sku_id": "56668016",
+        "product_name": "벤트 직각 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 그레이 1.5m"
+      },
+      {
+        "info_row": 222,
+        "inventory_id": "15419778776",
+        "option_id": "92052857423",
+        "sku_id": "57261280",
+        "product_name": "플렉시블 C to C타입 미니 케이블",
+        "option_name": "1개 13.2cm 그레이"
+      },
+      {
+        "info_row": 223,
+        "inventory_id": "15317386190",
+        "option_id": "92082067185",
+        "sku_id": "57442687",
+        "product_name": "수평 USB-A to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 그레이 3m"
+      },
+      {
+        "info_row": 224,
+        "inventory_id": "15448976538",
+        "option_id": "92167245701",
+        "sku_id": "58024346",
+        "product_name": "루디 역직각 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 225,
+        "inventory_id": "15477568180",
+        "option_id": "92278058651",
+        "sku_id": "58693656",
+        "product_name": "C타입 마그네틱 샥즈 오픈런 골전도 이어폰 호환 고속충전 케이블",
+        "option_name": "블랙"
+      },
+      {
+        "info_row": 226,
+        "inventory_id": "15524180232",
+        "option_id": "92474522637",
+        "sku_id": "59825479",
+        "product_name": "파워플로우 역직각 USB to 수평 8핀 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 227,
+        "inventory_id": "15533800162",
+        "option_id": "92515722600",
+        "sku_id": "60032178",
+        "product_name": "클루 수평 USB-A to 수평 C타입 슈퍼 롱 케이블",
+        "option_name": "1개 10m"
+      },
+      {
+        "info_row": 229,
+        "inventory_id": "15420120653",
+        "option_id": "92741109274",
+        "sku_id": "61238467",
+        "product_name": "미니벤트 직각 to 수평 C타입 패치 케이블",
+        "option_name": "1개 블랙 52cm"
+      },
+      {
+        "info_row": 230,
+        "inventory_id": "15420120653",
+        "option_id": "92741109280",
+        "sku_id": "61238466",
+        "product_name": "미니벤트 직각 to 수평 C타입 패치 케이블",
+        "option_name": "1개 블랙 32cm"
+      },
+      {
+        "info_row": 231,
+        "inventory_id": "15664138006",
+        "option_id": "93098644347",
+        "sku_id": "62579523",
+        "product_name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 0.25m"
+      },
+      {
+        "info_row": 232,
+        "inventory_id": "15920134143",
+        "option_id": "94305174650",
+        "sku_id": "67983164",
+        "product_name": "레보 4in1 수평 to 수평 고속충전 데이터 스마트 릴케이블",
+        "option_name": "1개 그레이 56mm"
+      },
+      {
+        "info_row": 233,
+        "inventory_id": "15937304029",
+        "option_id": "94372476424",
+        "sku_id": "68245830",
+        "product_name": "마그네틱 헤드 360도 회전 USB-A to 수평 C타입 120W 고속충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 234,
+        "inventory_id": "15938896855",
+        "option_id": "94379273538",
+        "sku_id": "68272985",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-G",
+        "option_name": "1개 5m"
+      },
+      {
+        "info_row": 235,
+        "inventory_id": "15938896855",
+        "option_id": "94379273540",
+        "sku_id": "68272984",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-G",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 236,
+        "inventory_id": "15962032202",
+        "option_id": "94471944593",
+        "sku_id": "68591878",
+        "product_name": "스토리지 수평 USB-A to 수평 5핀 8핀 C타입 자석 릴케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 237,
+        "inventory_id": "15929221596",
+        "option_id": "94605025133",
+        "sku_id": "69115126",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 블랙 51mm"
+      },
+      {
+        "info_row": 238,
+        "inventory_id": "16006622450",
+        "option_id": "94649184481",
+        "sku_id": "69285884",
+        "product_name": "벤디 디스플레이 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 239,
+        "inventory_id": "16011792941",
+        "option_id": "94669407931",
+        "sku_id": "69378967",
+        "product_name": "8K UHD 수평 DP to 수평 DP 고강도 패브릭 케이블 1.4v 양방향 디스플레이 포트",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 240,
+        "inventory_id": "16026112763",
+        "option_id": "94725958987",
+        "sku_id": "69616402",
+        "product_name": "노드 수평 to 수평 C타입 240W 실리콘 디스플레이 케이블",
+        "option_name": "1개 그레이 180cm"
+      },
+      {
+        "info_row": 241,
+        "inventory_id": "16113950819",
+        "option_id": "95075798589",
+        "sku_id": "71105946",
+        "product_name": "오르빗 수평 to 수평 C타입 USB5 16K 240W 80Gbps 썬더볼트 5 호환 케이블",
+        "option_name": "1개 블랙 130mm"
+      },
+      {
+        "info_row": 242,
+        "inventory_id": "16120811267",
+        "option_id": "95102851823",
+        "sku_id": "71294911",
+        "product_name": "블랙 ARGB 컨트롤러 5V 3핀 SATA 전원 LED조명 케이블",
+        "option_name": "1개 415mm"
+      },
+      {
+        "info_row": 243,
+        "inventory_id": "16130330489",
+        "option_id": "95140376839",
+        "sku_id": "71514001",
+        "product_name": "액티 100W 180도 회전 C타입 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 실버 2m"
+      },
+      {
+        "info_row": 244,
+        "inventory_id": "16130330489",
+        "option_id": "95140376841",
+        "sku_id": "71514000",
+        "product_name": "액티 100W 180도 회전 C타입 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 실버 1.2m"
+      },
+      {
+        "info_row": 245,
+        "inventory_id": "16134703787",
+        "option_id": "95157905752",
+        "sku_id": "71650329",
+        "product_name": "레이 240W 수평 to 수평 C타입 패브릭 고속충전 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 246,
+        "inventory_id": "16134703787",
+        "option_id": "95157905755",
+        "sku_id": "71650330",
+        "product_name": "레이 240W 수평 to 수평 C타입 패브릭 고속충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 247,
+        "inventory_id": "16142501086",
+        "option_id": "95189925639",
+        "sku_id": "71834128",
+        "product_name": "퍼플스트림 100W 수평 USB A to 수평 C타입 올인원 고속충전 케이블",
+        "option_name": "1개 퍼플 2m"
+      },
+      {
+        "info_row": 248,
+        "inventory_id": "16144914529",
+        "option_id": "95199079127",
+        "sku_id": "71913125",
+        "product_name": "리브 역직각 to 수평 C타입 실리콘 초고속충전 케이블",
+        "option_name": "1개 화이트 1.68m"
+      },
+      {
+        "info_row": 249,
+        "inventory_id": "16151029153",
+        "option_id": "95223882621",
+        "sku_id": "72052197",
+        "product_name": "플레이핏 LED 역직각 to 역직각 C타입 패브릭 케이블 60W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 250,
+        "inventory_id": "16154838943",
+        "option_id": "95239240395",
+        "sku_id": "72182680",
+        "product_name": "넥소 100w 수평 to 수평 C타입 멀티 초고속충전 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 251,
+        "inventory_id": "16157650169",
+        "option_id": "95250451384",
+        "sku_id": "72274733",
+        "product_name": "젠트라 240W 4in1 수평 to 수평 실리콘 초고속 충전 케이블",
+        "option_name": "1개 옐로우 1.2m"
+      },
+      {
+        "info_row": 252,
+        "inventory_id": "16159667782",
+        "option_id": "95258294015",
+        "sku_id": "72340395",
+        "product_name": "파인그립 수평 USB-A to 역직각 C타입 고속충전 패브릭 케이블 60W",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 253,
+        "inventory_id": "16163395632",
+        "option_id": "95273595394",
+        "sku_id": "72418580",
+        "product_name": "싱크코어 2in 1 충전 오디오 동시 지원 연결 케이블",
+        "option_name": "1개 블랙 12cm"
+      },
+      {
+        "info_row": 254,
+        "inventory_id": "16165814000",
+        "option_id": "95282916663",
+        "sku_id": "72513499",
+        "product_name": "원터치 탈착 마그네틱 540도 회전 C타입 to 수평 USB-A 고속충전 케이블 LED 표시",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 255,
+        "inventory_id": "16200450178",
+        "option_id": "95415671497",
+        "sku_id": "73539532",
+        "product_name": "아크 듀얼 3.5mm 수평 to 수평 Y자형 오디오 분배 케이블",
+        "option_name": "실버 1개 3.5mm"
+      },
+      {
+        "info_row": 256,
+        "inventory_id": "16260240695",
+        "option_id": "95614119730",
+        "sku_id": "75208564",
+        "product_name": "원탭 수평 to 수평 USB4 240W 80Gbps 16K 마그네틱 숏케이블",
+        "option_name": "1개 블랙 18.5cm"
+      },
+      {
+        "info_row": 257,
+        "inventory_id": "16316499119",
+        "option_id": "95821369418",
+        "sku_id": "76930605",
+        "product_name": "씬링크 수평 to 수평 C타입 100W 20Gbps 8K60Hz 플랫 연장 케이블",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 258,
+        "inventory_id": "14272364461",
+        "option_id": "86702549966",
+        "sku_id": "37497610",
+        "product_name": "스마일 충전케이블 보호캡",
+        "option_name": "3. 스마일 충전케이블 보호캡-스마일퍼플 2P 1개"
+      },
+      {
+        "info_row": 259,
+        "inventory_id": "15200908521",
+        "option_id": "91272789027",
+        "sku_id": "51745079",
+        "product_name": "고속충전케이블 투인원 넥스트랩",
+        "option_name": "1개 1m CtoC 믹스"
+      },
+      {
+        "info_row": 260,
+        "inventory_id": "15300803504",
+        "option_id": "91641141308",
+        "sku_id": "54563842",
+        "product_name": "밀리터리 USB-A to 라이트닝 8핀 스프링 케이블",
+        "option_name": "1개 1.8m 카키"
+      },
+      {
+        "info_row": 261,
+        "inventory_id": "15308087357",
+        "option_id": "91652562865",
+        "sku_id": "54756468",
+        "product_name": "플렉스 수평 USB-A to 수평 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 262,
+        "inventory_id": "15309402317",
+        "option_id": "91657009192",
+        "sku_id": "54792526",
+        "product_name": "플렉스 수평 C타입 to 수평 8핀 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 263,
+        "inventory_id": "15323177870",
+        "option_id": "91704191398",
+        "sku_id": "55171595",
+        "product_name": "미니벤트 직각 to 수평 C타입 연장케이블",
+        "option_name": "1개 블랙 17cm"
+      },
+      {
+        "info_row": 264,
+        "inventory_id": "15373179400",
+        "option_id": "91887308727",
+        "sku_id": "56249624",
+        "product_name": "수평 to 수평 C타입 OTG 플랫형 케이블",
+        "option_name": "1개 옐로우 82cm"
+      },
+      {
+        "info_row": 265,
+        "inventory_id": "15373179400",
+        "option_id": "91887308736",
+        "sku_id": "56249623",
+        "product_name": "수평 to 수평 C타입 OTG 플랫형 케이블",
+        "option_name": "1개 옐로우 53cm"
+      },
+      {
+        "info_row": 266,
+        "inventory_id": "15385047192",
+        "option_id": "91929786175",
+        "sku_id": "56475122",
+        "product_name": "C타입 서피스 호환 마그네틱 충전 케이블",
+        "option_name": "1개 2m 블랙"
+      },
+      {
+        "info_row": 267,
+        "inventory_id": "15386483428",
+        "option_id": "91934556956",
+        "sku_id": "56511695",
+        "product_name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 화이트 3m"
+      },
+      {
+        "info_row": 269,
+        "inventory_id": "15465040472",
+        "option_id": "92229013084",
+        "sku_id": "58403705",
+        "product_name": "디스플레이 C to C타입 패브릭 케이블",
+        "option_name": "1개 2m 블랙"
+      },
+      {
+        "info_row": 270,
+        "inventory_id": "15558212989",
+        "option_id": "92617956123",
+        "sku_id": "60625232",
+        "product_name": "수평 to 수평 CAT8 초고속 패브릭 플랫 랜케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 271,
+        "inventory_id": "15596255576",
+        "option_id": "92767283548",
+        "sku_id": "61330490",
+        "product_name": "직각 C타입 to 수평 C타입 8핀 2in1 힐릭스 스프링 케이블",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 272,
+        "inventory_id": "15600067403",
+        "option_id": "92784769739",
+        "sku_id": "61406095",
+        "product_name": "수평 to 수평 C타입 6in1 멀티트리 케이블",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 273,
+        "inventory_id": "15643593906",
+        "option_id": "92996966984",
+        "sku_id": "62229845",
+        "product_name": "익스트림 수평 to 수평 DP 2.1 케이블",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 274,
+        "inventory_id": "15533800162",
+        "option_id": "93098015615",
+        "sku_id": "62575145",
+        "product_name": "클루 수평 USB-A to 수평 C타입 슈퍼 롱 케이블",
+        "option_name": "1개 5m"
+      },
+      {
+        "info_row": 275,
+        "inventory_id": "15751030640",
+        "option_id": "93527432180",
+        "sku_id": "64415352",
+        "product_name": "직각 USB-A to 수평 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 0.6m"
+      },
+      {
+        "info_row": 276,
+        "inventory_id": "15752802075",
+        "option_id": "93536280203",
+        "sku_id": "64460968",
+        "product_name": "직각 C타입 to 수평 8핀 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 280,
+        "inventory_id": "15979575625",
+        "option_id": "94539303511",
+        "sku_id": "68846102",
+        "product_name": "맥스턴 3in1 180도 회전 to 수평 120W 고속충전 멀티단자 케이블",
+        "option_name": "1개 오렌지 2m"
+      },
+      {
+        "info_row": 281,
+        "inventory_id": "15999015385",
+        "option_id": "94617509689",
+        "sku_id": "69177865",
+        "product_name": "수평 USB-A to 수평 C타입 스탠드 코브라 케이블",
+        "option_name": "1개 화이트 1.2m"
+      },
+      {
+        "info_row": 282,
+        "inventory_id": "15981954248",
+        "option_id": "94657888546",
+        "sku_id": "69326493",
+        "product_name": "자석형 마그네틱 역직각 to 수평 C타입 PD65W 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 283,
+        "inventory_id": "16021003066",
+        "option_id": "94706202622",
+        "sku_id": "69524076",
+        "product_name": "초고화질 8K UHD 수평 C타입 to 수평 DP 패브릭 케이블 v1.4 디스플레이 포트",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 284,
+        "inventory_id": "16025986204",
+        "option_id": "94725376943",
+        "sku_id": "69613797",
+        "product_name": "디지털 디스플레이 수평 to 수평 C타입 240W 초고속 충전케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 285,
+        "inventory_id": "16109192084",
+        "option_id": "95057811660",
+        "sku_id": "71011106",
+        "product_name": "코비 240W 수평 to 수평 C타입 LED 실리콘 고속충전 케이블",
+        "option_name": "1개 그린 150cm"
+      },
+      {
+        "info_row": 287,
+        "inventory_id": "16142515599",
+        "option_id": "95189976243",
+        "sku_id": "71834754",
+        "product_name": "그라비온 USB4 썬더볼트4 호환 수평 to 수평 C타입 패브릭 케이블 240W 40Gbps 8K",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 288,
+        "inventory_id": "16170117759",
+        "option_id": "95298971183",
+        "sku_id": "72649287",
+        "product_name": "고음질 직각 to 수평 6.35mm 일렉기타 케이블",
+        "option_name": "블랙 1개 5M"
+      },
+      {
+        "info_row": 289,
+        "inventory_id": "16197952823",
+        "option_id": "95407003408",
+        "sku_id": "73459235",
+        "product_name": "웨이브 USB-A 듀얼 3.5mm 수평 to 수평 오디오 마이크 변환 케이블",
+        "option_name": "블랙 1개 USB-A to 3.5mm"
+      },
+      {
+        "info_row": 290,
+        "inventory_id": "16200450178",
+        "option_id": "95415671496",
+        "sku_id": "73539533",
+        "product_name": "아크 듀얼 3.5mm 수평 to 수평 Y자형 오디오 분배 케이블",
+        "option_name": "블랙 1개 3.5mm"
+      },
+      {
+        "info_row": 291,
+        "inventory_id": "15596501844",
+        "option_id": "95422201981",
+        "sku_id": "73585324",
+        "product_name": "수평 USB-B(2.0) to 수평 USB-A타입 패브릭 미디 케이블",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 292,
+        "inventory_id": "16203912528",
+        "option_id": "95428998551",
+        "sku_id": "73655551",
+        "product_name": "컴퓨터 쿨링팬 SATA to 3핀 4핀 확장 분배 케이블",
+        "option_name": "4분배 블랙 1개"
+      },
+      {
+        "info_row": 293,
+        "inventory_id": "16206185253",
+        "option_id": "95436620349",
+        "sku_id": "73721537",
+        "product_name": "브릭 360도 회전 케이블 정리 홀더",
+        "option_name": "3개 화이트 23x19mm"
+      },
+      {
+        "info_row": 294,
+        "inventory_id": "16216629302",
+        "option_id": "95473983205",
+        "sku_id": "74014688",
+        "product_name": "이지온 C타입 to RJ45 유선 랜 케이블 100Mbps",
+        "option_name": "블랙 1개 3m"
+      },
+      {
+        "info_row": 295,
+        "inventory_id": "16279697958",
+        "option_id": "95681686418",
+        "sku_id": "75835865",
+        "product_name": "잼링크 일렉 기타 이펙터 직각 to 직각 플랫 패치 케이블",
+        "option_name": "1개 15cm"
+      },
+      {
+        "info_row": 296,
+        "inventory_id": "16303529484",
+        "option_id": "95775543936",
+        "sku_id": "76521118",
+        "product_name": "USB 5V to 12V 승압 4핀 쿨링팬 전원 변환 케이블",
+        "option_name": "1개 100cm"
+      },
+      {
+        "info_row": 297,
+        "inventory_id": "16370286912",
+        "option_id": "96011306169",
+        "sku_id": "79425813",
+        "product_name": "와이드형 PC용 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 화이트"
+      },
+      {
+        "info_row": 298,
+        "inventory_id": "14272364461",
+        "option_id": "86702549980",
+        "sku_id": "37497613",
+        "product_name": "스마일 충전케이블 보호캡",
+        "option_name": "1. 스마일 충전케이블 보호캡-스마일그린 2P 1개"
+      },
+      {
+        "info_row": 299,
+        "inventory_id": "15309396677",
+        "option_id": "91656974778",
+        "sku_id": "54792258",
+        "product_name": "플렉스 수평 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 300,
+        "inventory_id": "15317386190",
+        "option_id": "91806288342",
+        "sku_id": "55870134",
+        "product_name": "수평 USB-A to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 그레이 2m"
+      },
+      {
+        "info_row": 301,
+        "inventory_id": "15420129823",
+        "option_id": "92053961958",
+        "sku_id": "57274389",
+        "product_name": "미니벤트 수평 to 수평 C타입 스트레이트 케이블",
+        "option_name": "1개 블랙 18cm"
+      },
+      {
+        "info_row": 302,
+        "inventory_id": "15386483428",
+        "option_id": "92314084012",
+        "sku_id": "58901827",
+        "product_name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 버터그라 3m"
+      },
+      {
+        "info_row": 304,
+        "inventory_id": "15393798864",
+        "option_id": "92403915338",
+        "sku_id": "59467449",
+        "product_name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 퍼플 3m"
+      },
+      {
+        "info_row": 305,
+        "inventory_id": "15522767968",
+        "option_id": "92468730766",
+        "sku_id": "59797604",
+        "product_name": "파워플로우 역직각 USB to 수평 C타입 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 306,
+        "inventory_id": "15524180232",
+        "option_id": "92474522629",
+        "sku_id": "59825480",
+        "product_name": "파워플로우 역직각 USB to 수평 8핀 케이블",
+        "option_name": "1개 블랙 0.5m"
+      },
+      {
+        "info_row": 307,
+        "inventory_id": "15558723886",
+        "option_id": "92619924595",
+        "sku_id": "60645878",
+        "product_name": "제트 수평 mini DP to 수평 DP 양방향 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 310,
+        "inventory_id": "15780968364",
+        "option_id": "93671252334",
+        "sku_id": "65103897",
+        "product_name": "수평 to 수평 C타입 스퀘어 패브릭 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 311,
+        "inventory_id": "15865314803",
+        "option_id": "94071985189",
+        "sku_id": "66915229",
+        "product_name": "수평 C타입 to 수평 C타입 USB-A 동시지원 OTG 듀얼 케이블",
+        "option_name": "1개 그레이 13.3cm"
+      },
+      {
+        "info_row": 312,
+        "inventory_id": "15865314803",
+        "option_id": "94071985190",
+        "sku_id": "66915230",
+        "product_name": "수평 C타입 to 수평 C타입 USB-A 동시지원 OTG 듀얼 케이블",
+        "option_name": "1개 화이트 13.3cm"
+      },
+      {
+        "info_row": 313,
+        "inventory_id": "15895942501",
+        "option_id": "94208794327",
+        "sku_id": "67560537",
+        "product_name": "수평 C타입 to 수평 AUX 오디오 LED 케이블",
+        "option_name": "블랙 1개 105cm"
+      },
+      {
+        "info_row": 314,
+        "inventory_id": "15982171085",
+        "option_id": "94549374166",
+        "sku_id": "68893925",
+        "product_name": "4in1 수평 to 수평 C타입 초고속 충전 액상 실리콘 케이블 100W",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 315,
+        "inventory_id": "16021003066",
+        "option_id": "94706202624",
+        "sku_id": "69524075",
+        "product_name": "초고화질 8K UHD 수평 C타입 to 수평 DP 패브릭 케이블 v1.4 디스플레이 포트",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 316,
+        "inventory_id": "16022783222",
+        "option_id": "94713105784",
+        "sku_id": "69548531",
+        "product_name": "트윈라인 수평 to 수평 C타입 2in1 Y자형 충전 케이블",
+        "option_name": "1개 화이트 0.2m"
+      },
+      {
+        "info_row": 317,
+        "inventory_id": "16142691840",
+        "option_id": "95190630667",
+        "sku_id": "71842560",
+        "product_name": "벡스 4in1 수평 to 수평 C타입 마그네틱 꼬임방지 패브릭 케이블 65W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 318,
+        "inventory_id": "16146331868",
+        "option_id": "95204541723",
+        "sku_id": "71948137",
+        "product_name": "엘보 직각 to 수평 C타입 스프링 케이블 66W 고속충전",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 319,
+        "inventory_id": "16164035435",
+        "option_id": "95275693051",
+        "sku_id": "72448871",
+        "product_name": "새턴 180도 회전 C to 수평 USB-A LED 패브릭 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 320,
+        "inventory_id": "16178128642",
+        "option_id": "95330742142",
+        "sku_id": "72924923",
+        "product_name": "플로우 충전 데이터 분리형 수평 to 수평 C타입 멀티 분배 케이블",
+        "option_name": "1개 3in1 50cm"
+      },
+      {
+        "info_row": 321,
+        "inventory_id": "15929221596",
+        "option_id": "95542587032",
+        "sku_id": "74588674",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 레드 51mm"
+      },
+      {
+        "info_row": 322,
+        "inventory_id": "14226226592",
+        "option_id": "86492752317",
+        "sku_id": "36970114",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 3. 캐릭터 충전케이블 보호캡-블루클라우드 2P"
+      },
+      {
+        "info_row": 323,
+        "inventory_id": "14226226592",
+        "option_id": "86492752334",
+        "sku_id": "36970115",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 6. 캐릭터 충전케이블 보호캡-블랙더스트 2P"
+      },
+      {
+        "info_row": 324,
+        "inventory_id": "15371678506",
+        "option_id": "92076988429",
+        "sku_id": "57416386",
+        "product_name": "4in1 멀티 실리콘 케이블",
+        "option_name": "1개 1m 실버"
+      },
+      {
+        "info_row": 325,
+        "inventory_id": "15454953604",
+        "option_id": "92188951930",
+        "sku_id": "58173932",
+        "product_name": "트로피칼 C타입 to 8핀 스프링 케이블",
+        "option_name": "1개 1.6m 그레이민트"
+      },
+      {
+        "info_row": 327,
+        "inventory_id": "15570294199",
+        "option_id": "92671604185",
+        "sku_id": "60896433",
+        "product_name": "U자형 to 수평 C타입 패브릭 케이블",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 328,
+        "inventory_id": "15596508870",
+        "option_id": "92768415488",
+        "sku_id": "61340716",
+        "product_name": "수평 USB-B(2.0) to 수평 C타입 패브릭 미디 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 329,
+        "inventory_id": "15600607987",
+        "option_id": "92902261753",
+        "sku_id": "61858059",
+        "product_name": "수평 USB-A to 수평 8핀 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 330,
+        "inventory_id": "15533800162",
+        "option_id": "93098015637",
+        "sku_id": "62575144",
+        "product_name": "클루 수평 USB-A to 수평 C타입 슈퍼 롱 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 332,
+        "inventory_id": "15765393051",
+        "option_id": "93597816613",
+        "sku_id": "64764196",
+        "product_name": "트리플라인 수평 C타입 to 수평 8핀 C타입 3in1동시충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 333,
+        "inventory_id": "15897644710",
+        "option_id": "94215417920",
+        "sku_id": "67589285",
+        "product_name": "패브릭 메쉬 수평 to 수평 AUX 연장 케이블",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 335,
+        "inventory_id": "15937304029",
+        "option_id": "94372476422",
+        "sku_id": "68245831",
+        "product_name": "마그네틱 헤드 360도 회전 USB-A to 수평 C타입 120W 고속충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 336,
+        "inventory_id": "15991541815",
+        "option_id": "94585658613",
+        "sku_id": "69040292",
+        "product_name": "스마트폴드 4in1 수평 to 수평 릴 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 337,
+        "inventory_id": "15998345557",
+        "option_id": "94614705166",
+        "sku_id": "69161048",
+        "product_name": "코어핏 직각 to 수평 USB 3.0 연장 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 338,
+        "inventory_id": "16014105958",
+        "option_id": "94678211141",
+        "sku_id": "69418848",
+        "product_name": "거치대 꺾임형 C타입 to 수평 C타입 240W 초고속 충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 339,
+        "inventory_id": "16114568982",
+        "option_id": "95078264983",
+        "sku_id": "71128786",
+        "product_name": "싱글플렉스 180도 회전 to 수평 C타입  패브릭 고속충전 케이블 60W",
+        "option_name": "1개 블랙 1.8m"
+      },
+      {
+        "info_row": 340,
+        "inventory_id": "16153500368",
+        "option_id": "95233838481",
+        "sku_id": "72151957",
+        "product_name": "트리플링크 120W 수평 USB-A to 수평 3in1 충전 케이블",
+        "option_name": "1개 그레이 2m"
+      },
+      {
+        "info_row": 341,
+        "inventory_id": "16159667782",
+        "option_id": "95258294011",
+        "sku_id": "72340396",
+        "product_name": "파인그립 수평 USB-A to 역직각 C타입 고속충전 패브릭 케이블 60W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 342,
+        "inventory_id": "16163395632",
+        "option_id": "95273595397",
+        "sku_id": "72418579",
+        "product_name": "싱크코어 2in 1 충전 오디오 동시 지원 연결 케이블",
+        "option_name": "1개 블루그레이 12cm"
+      },
+      {
+        "info_row": 343,
+        "inventory_id": "16165814000",
+        "option_id": "95282916662",
+        "sku_id": "72513498",
+        "product_name": "원터치 탈착 마그네틱 540도 회전 C타입 to 수평 USB-A 고속충전 케이블 LED 표시",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 344,
+        "inventory_id": "16167180034",
+        "option_id": "95288332290",
+        "sku_id": "72552745",
+        "product_name": "수평 USB-B(3.0) to 수평 USB-A타입 스피디 미디 케이블",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 346,
+        "inventory_id": "16189938182",
+        "option_id": "95377659896",
+        "sku_id": "73239062",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올화이트",
+        "option_name": "1개 1 to 4분배"
+      },
+      {
+        "info_row": 347,
+        "inventory_id": "16211197675",
+        "option_id": "95454231157",
+        "sku_id": "73843666",
+        "product_name": "에어브릿지 240W 직각 to 수평 C타입 숏 케이블 USB4 40Gbps 8K",
+        "option_name": "1개 그레이 75mm"
+      },
+      {
+        "info_row": 348,
+        "inventory_id": "16216629302",
+        "option_id": "95473983191",
+        "sku_id": "74014689",
+        "product_name": "이지온 C타입 to RJ45 유선 랜 케이블 100Mbps",
+        "option_name": "블랙 1개 1.5m"
+      },
+      {
+        "info_row": 349,
+        "inventory_id": "16230664577",
+        "option_id": "95522475032",
+        "sku_id": "74453019",
+        "product_name": "슬링크 역직각 to 역직각 240W 80G 8K 숏 케이블",
+        "option_name": "1개 블랙 135mm"
+      },
+      {
+        "info_row": 350,
+        "inventory_id": "15929221596",
+        "option_id": "95542587031",
+        "sku_id": "74588672",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 옐로우 51mm"
+      },
+      {
+        "info_row": 351,
+        "inventory_id": "15929221596",
+        "option_id": "95542587033",
+        "sku_id": "74588671",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 옐로우 42mm"
+      },
+      {
+        "info_row": 352,
+        "inventory_id": "15929221596",
+        "option_id": "95542587036",
+        "sku_id": "74588675",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 레드 42mm"
+      },
+      {
+        "info_row": 353,
+        "inventory_id": "16271922382",
+        "option_id": "95654350297",
+        "sku_id": "75584857",
+        "product_name": "DIY 직각 to 직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 354,
+        "inventory_id": "16271926744",
+        "option_id": "95654382240",
+        "sku_id": "75585172",
+        "product_name": "DIY 역직각 to 역직각 C타입  플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 355,
+        "inventory_id": "16271926744",
+        "option_id": "95654382242",
+        "sku_id": "75585171",
+        "product_name": "DIY 역직각 to 역직각 C타입  플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 356,
+        "inventory_id": "16398135028",
+        "option_id": "96116368273",
+        "sku_id": "81179791",
+        "product_name": "로키드 스마트안경 호환 3핀 자석 충전 케이블",
+        "option_name": "1개 USB-C 수(M) 120cm"
+      },
+      {
+        "info_row": 357,
+        "inventory_id": "15236680575",
+        "option_id": "91400855538",
+        "sku_id": "52818761",
+        "product_name": "고속충전케이블 투인원 핸드스트랩",
+        "option_name": "1개 400mm CtoC 믹스"
+      },
+      {
+        "info_row": 358,
+        "inventory_id": "15252761756",
+        "option_id": "91454360521",
+        "sku_id": "53272913",
+        "product_name": "3in1 멀티 릴케이블",
+        "option_name": "1개 120cm 화이트"
+      },
+      {
+        "info_row": 359,
+        "inventory_id": "15252761756",
+        "option_id": "91454360525",
+        "sku_id": "53272912",
+        "product_name": "3in1 멀티 릴케이블",
+        "option_name": "1개 120cm 블랙"
+      },
+      {
+        "info_row": 360,
+        "inventory_id": "15310401146",
+        "option_id": "91660513879",
+        "sku_id": "54816583",
+        "product_name": "모찌클레이 C to C타입 고속충전 케이블",
+        "option_name": "1개 1.5m 베리핑크"
+      },
+      {
+        "info_row": 361,
+        "inventory_id": "15318820113",
+        "option_id": "91689180858",
+        "sku_id": "55043230",
+        "product_name": "C타입 to HDMI 미러링 케이블",
+        "option_name": "1개 10cm 그레이"
+      },
+      {
+        "info_row": 362,
+        "inventory_id": "15374699029",
+        "option_id": "91893096796",
+        "sku_id": "56283326",
+        "product_name": "4in1 멀티 스프링 케이블",
+        "option_name": "1개 1.5m 옐로우"
+      },
+      {
+        "info_row": 363,
+        "inventory_id": "15392272522",
+        "option_id": "91954197248",
+        "sku_id": "56631926",
+        "product_name": "수평 to 수평 C타입 마그네틱 미니 키링 케이블",
+        "option_name": "1개 그레이 7.2cm"
+      },
+      {
+        "info_row": 364,
+        "inventory_id": "15419778776",
+        "option_id": "92052857429",
+        "sku_id": "57261279",
+        "product_name": "플렉시블 C to C타입 미니 케이블",
+        "option_name": "1개 13.2cm 블랙"
+      },
+      {
+        "info_row": 365,
+        "inventory_id": "15454518973",
+        "option_id": "92187462054",
+        "sku_id": "58158830",
+        "product_name": "하이스피드 C to C타입 미니 키링 케이블",
+        "option_name": "1개 13cm 옐로우"
+      },
+      {
+        "info_row": 366,
+        "inventory_id": "15484689991",
+        "option_id": "92308369679",
+        "sku_id": "58871207",
+        "product_name": "캔디팝 마그네틱 C to C타입 케이블",
+        "option_name": "1개 1m 블루팝"
+      },
+      {
+        "info_row": 367,
+        "inventory_id": "15487912967",
+        "option_id": "92321303901",
+        "sku_id": "58955353",
+        "product_name": "마카롱 C to C타입 케이블",
+        "option_name": "1개 1m 타로밀크"
+      },
+      {
+        "info_row": 368,
+        "inventory_id": "15487865091",
+        "option_id": "92466655257",
+        "sku_id": "59774957",
+        "product_name": "4in1 데저트 스프링 충전 케이블",
+        "option_name": "1개 1.5m 베이지"
+      },
+      {
+        "info_row": 369,
+        "inventory_id": "15546225526",
+        "option_id": "92565758229",
+        "sku_id": "60351082",
+        "product_name": "듀얼헤드 수평 USB-A타입 3.0 to 수평 SATA 2.5 3.5형 변환 케이블",
+        "option_name": "1개 블랙 24cm"
+      },
+      {
+        "info_row": 370,
+        "inventory_id": "15386483428",
+        "option_id": "92633506353",
+        "sku_id": "60721362",
+        "product_name": "패브릭 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 멀티픽셀 3m"
+      },
+      {
+        "info_row": 371,
+        "inventory_id": "15625648940",
+        "option_id": "92908930864",
+        "sku_id": "61879445",
+        "product_name": "카르노 패브릭 수평 C타입 to 수평 8핀 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 372,
+        "inventory_id": "15628107344",
+        "option_id": "92920782872",
+        "sku_id": "61935990",
+        "product_name": "아이스젤리 수평 C타입 to 수평 8핀 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 373,
+        "inventory_id": "15643593906",
+        "option_id": "92996966991",
+        "sku_id": "62229847",
+        "product_name": "익스트림 수평 to 수평 DP 2.1 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 374,
+        "inventory_id": "15738762664",
+        "option_id": "93468342530",
+        "sku_id": "64124035",
+        "product_name": "수평 라이즈 8핀 to 직각 Aux 오디오 스프링 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 375,
+        "inventory_id": "15752802075",
+        "option_id": "93536280204",
+        "sku_id": "64460969",
+        "product_name": "직각 C타입 to 수평 8핀 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 0.6m"
+      },
+      {
+        "info_row": 376,
+        "inventory_id": "15765351399",
+        "option_id": "93597597360",
+        "sku_id": "64762327",
+        "product_name": "(파스텔) C타입 8핀 실리콘 미니 양방향 충전케이블",
+        "option_name": "12cm 라일락퍼플 1개"
+      },
+      {
+        "info_row": 379,
+        "inventory_id": "15890496913",
+        "option_id": "94184354576",
+        "sku_id": "67451115",
+        "product_name": "하이싱크 수평 to 수평 오디오 충전 듀얼 케이블",
+        "option_name": "1개 화이트 133mm"
+      },
+      {
+        "info_row": 380,
+        "inventory_id": "15908549940",
+        "option_id": "94259521544",
+        "sku_id": "67774234",
+        "product_name": "블레이즈 수평 to 수평 C타입 120G USB4 2.0 8k 케이블",
+        "option_name": "1개 블랙 130mm"
+      },
+      {
+        "info_row": 381,
+        "inventory_id": "15938896855",
+        "option_id": "94379273541",
+        "sku_id": "68272983",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-G",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 382,
+        "inventory_id": "15967661681",
+        "option_id": "94498281864",
+        "sku_id": "68685787",
+        "product_name": "스위치전원 USB 3.0 고속 연장케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 383,
+        "inventory_id": "15969231314",
+        "option_id": "94499348575",
+        "sku_id": "68702290",
+        "product_name": "마그네틱 헤드 180도 회전 to 수평 C타입 초고속충전 패브릭 케이블 100w",
+        "option_name": "1개 네이비 1.2m"
+      },
+      {
+        "info_row": 384,
+        "inventory_id": "16114568982",
+        "option_id": "95078264982",
+        "sku_id": "71128787",
+        "product_name": "싱글플렉스 180도 회전 to 수평 C타입  패브릭 고속충전 케이블 60W",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 385,
+        "inventory_id": "16142515599",
+        "option_id": "95189976242",
+        "sku_id": "71834753",
+        "product_name": "그라비온 USB4 썬더볼트4 호환 수평 to 수평 C타입 패브릭 케이블 240W 40Gbps 8K",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 386,
+        "inventory_id": "16146241319",
+        "option_id": "95204160224",
+        "sku_id": "71943907",
+        "product_name": "루멘트 수평 to 수평 2in1 C to C 스프링 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 387,
+        "inventory_id": "16153573781",
+        "option_id": "95234106437",
+        "sku_id": "72156211",
+        "product_name": "DIY 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 388,
+        "inventory_id": "16170117759",
+        "option_id": "95298971182",
+        "sku_id": "72649288",
+        "product_name": "고음질 직각 to 수평 6.35mm 일렉기타 케이블",
+        "option_name": "블랙 1개 3M"
+      },
+      {
+        "info_row": 389,
+        "inventory_id": "16181203626",
+        "option_id": "95343073235",
+        "sku_id": "73017025",
+        "product_name": "볼티바 120W LED 수평 to 수평 C타입 충전 케이블",
+        "option_name": "1개 화이트 2m"
+      },
+      {
+        "info_row": 390,
+        "inventory_id": "16181203626",
+        "option_id": "95343073238",
+        "sku_id": "73017026",
+        "product_name": "볼티바 120W LED 수평 to 수평 C타입 충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 391,
+        "inventory_id": "16189938182",
+        "option_id": "95377659897",
+        "sku_id": "73239061",
+        "product_name": "PC용 5V 3핀 ARGB 분배 연장 확장 케이블 올화이트",
+        "option_name": "1개 1 to 2분배"
+      },
+      {
+        "info_row": 392,
+        "inventory_id": "16191639294",
+        "option_id": "95384008551",
+        "sku_id": "73291707",
+        "product_name": "사운드 프로 수평 C타입 to 수평 RCA 오디오 변환 케이블",
+        "option_name": "블랙 1개 1m"
+      },
+      {
+        "info_row": 393,
+        "inventory_id": "16211197675",
+        "option_id": "95454231160",
+        "sku_id": "73843667",
+        "product_name": "에어브릿지 240W 직각 to 수평 C타입 숏 케이블 USB4 40Gbps 8K",
+        "option_name": "1개 그레이 66mm"
+      },
+      {
+        "info_row": 394,
+        "inventory_id": "16217245495",
+        "option_id": "95476005330",
+        "sku_id": "74042416",
+        "product_name": "제노스 역직각 to 수평 C타입 거치형 240W 고속충전 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 395,
+        "inventory_id": "16228335296",
+        "option_id": "95514351305",
+        "sku_id": "74357378",
+        "product_name": "앵글로 100W 역직각 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블루그레이 2m"
+      },
+      {
+        "info_row": 396,
+        "inventory_id": "16228335296",
+        "option_id": "95514351306",
+        "sku_id": "74357379",
+        "product_name": "앵글로 100W 역직각 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 블루그레이 1.2m"
+      },
+      {
+        "info_row": 399,
+        "inventory_id": "16271926744",
+        "option_id": "95654382241",
+        "sku_id": "75585170",
+        "product_name": "DIY 역직각 to 역직각 C타입  플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 400,
+        "inventory_id": "16370288838",
+        "option_id": "96011313324",
+        "sku_id": "79426037",
+        "product_name": "롱슬림형 PC용 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 화이트"
+      },
+      {
+        "info_row": 401,
+        "inventory_id": "16370288838",
+        "option_id": "96011313325",
+        "sku_id": "79426038",
+        "product_name": "롱슬림형 PC용 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 블랙"
+      },
+      {
+        "info_row": 402,
+        "inventory_id": "13530084563",
+        "option_id": "82997928380",
+        "sku_id": "27897151",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "2. C타입 to 라이트닝 블랙 1.2m 1개"
+      },
+      {
+        "info_row": 403,
+        "inventory_id": "13530084563",
+        "option_id": "82997928397",
+        "sku_id": "27897157",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "8. USB-A to C타입 블랙 1.2m 1개"
+      },
+      {
+        "info_row": 404,
+        "inventory_id": "14226226592",
+        "option_id": "86492752381",
+        "sku_id": "36970119",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 1. 캐릭터 충전케이블 보호캡-그린프로그 2P"
+      },
+      {
+        "info_row": 405,
+        "inventory_id": "14272364461",
+        "option_id": "86702549993",
+        "sku_id": "37497614",
+        "product_name": "스마일 충전케이블 보호캡",
+        "option_name": "2. 스마일 충전케이블 보호캡-스마일옐로우 2P 1개"
+      },
+      {
+        "info_row": 406,
+        "inventory_id": "15310401146",
+        "option_id": "91660513884",
+        "sku_id": "54816582",
+        "product_name": "모찌클레이 C to C타입 고속충전 케이블",
+        "option_name": "1개 1.5m 말차그린"
+      },
+      {
+        "info_row": 407,
+        "inventory_id": "15387045710",
+        "option_id": "91936424509",
+        "sku_id": "56532733",
+        "product_name": "C to C타입 미니플랫 케이블",
+        "option_name": "1개 옐로우 13cm"
+      },
+      {
+        "info_row": 408,
+        "inventory_id": "15393798864",
+        "option_id": "91959929806",
+        "sku_id": "56664096",
+        "product_name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 화이트 3m"
+      },
+      {
+        "info_row": 409,
+        "inventory_id": "15475018229",
+        "option_id": "92268364003",
+        "sku_id": "58615122",
+        "product_name": "슬림라인 USB-A to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 레드 1개"
+      },
+      {
+        "info_row": 410,
+        "inventory_id": "15475255955",
+        "option_id": "92269181048",
+        "sku_id": "58622870",
+        "product_name": "슬림라인 C타입 to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 블루 1개"
+      },
+      {
+        "info_row": 411,
+        "inventory_id": "15531843227",
+        "option_id": "92507589470",
+        "sku_id": "59982595",
+        "product_name": "크롬 수평 USB-A to 수평 C타입 슈퍼 롱 충전 케이블",
+        "option_name": "1개 그레이 8m"
+      },
+      {
+        "info_row": 413,
+        "inventory_id": "15548306446",
+        "option_id": "92574299554",
+        "sku_id": "60395167",
+        "product_name": "서킷 수평 USB-C to 수평 SATA 2.5형 변환 케이블",
+        "option_name": "1개 블랙 25cm"
+      },
+      {
+        "info_row": 414,
+        "inventory_id": "15558212989",
+        "option_id": "92617956107",
+        "sku_id": "60625234",
+        "product_name": "수평 to 수평 CAT8 초고속 패브릭 플랫 랜케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 415,
+        "inventory_id": "15570294199",
+        "option_id": "92671604202",
+        "sku_id": "60896434",
+        "product_name": "U자형 to 수평 C타입 패브릭 케이블",
+        "option_name": "1개 3m"
+      },
+      {
+        "info_row": 416,
+        "inventory_id": "15600607987",
+        "option_id": "92787116888",
+        "sku_id": "61422086",
+        "product_name": "수평 USB-A to 수평 8핀 C타입 2in1 콤보라인 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 417,
+        "inventory_id": "15603385436",
+        "option_id": "92800300134",
+        "sku_id": "61482470",
+        "product_name": "수평 USB-A to 수평 8핀 플랫 숏 케이블",
+        "option_name": "1개 블랙 142mm"
+      },
+      {
+        "info_row": 418,
+        "inventory_id": "15603391996",
+        "option_id": "92800330406",
+        "sku_id": "61482723",
+        "product_name": "수평 C타입 to 수평 8핀 플랫 숏 케이블",
+        "option_name": "1개 블랙 142mm"
+      },
+      {
+        "info_row": 419,
+        "inventory_id": "15615448786",
+        "option_id": "92858998048",
+        "sku_id": "61693522",
+        "product_name": "무빙 180도 회전 C타입 to 수평 C타입 각도조절 충전 케이블",
+        "option_name": "1개 블랙 100cm"
+      },
+      {
+        "info_row": 420,
+        "inventory_id": "15615448786",
+        "option_id": "92858998069",
+        "sku_id": "61693523",
+        "product_name": "무빙 180도 회전 C타입 to 수평 C타입 각도조절 충전 케이블",
+        "option_name": "1개 블랙 180cm"
+      },
+      {
+        "info_row": 422,
+        "inventory_id": "15780930916",
+        "option_id": "93671088246",
+        "sku_id": "65101600",
+        "product_name": "수평 to 수평 XLR 캐논 케이블 나일론 마이크 스피커 연결선",
+        "option_name": "1개 3M"
+      },
+      {
+        "info_row": 423,
+        "inventory_id": "15780968364",
+        "option_id": "93671252333",
+        "sku_id": "65103896",
+        "product_name": "수평 to 수평 C타입 스퀘어 패브릭 케이블",
+        "option_name": "1개 화이트 2m"
+      },
+      {
+        "info_row": 424,
+        "inventory_id": "15784480375",
+        "option_id": "93688694678",
+        "sku_id": "65189611",
+        "product_name": "듀론 역직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "option_name": "1개 브라운 1.6m"
+      },
+      {
+        "info_row": 425,
+        "inventory_id": "15908549940",
+        "option_id": "94259521543",
+        "sku_id": "67774235",
+        "product_name": "블레이즈 수평 to 수평 C타입 120G USB4 2.0 8k 케이블",
+        "option_name": "1개 화이트 130mm"
+      },
+      {
+        "info_row": 426,
+        "inventory_id": "15920063041",
+        "option_id": "94304818743",
+        "sku_id": "67979703",
+        "product_name": "초고속충전 240W 수평 to 수평 C타입 러기드 미니 키링 케이블",
+        "option_name": "1개 블랙 13.5cm"
+      },
+      {
+        "info_row": 427,
+        "inventory_id": "15920063041",
+        "option_id": "94304818745",
+        "sku_id": "67979704",
+        "product_name": "초고속충전 240W 수평 to 수평 C타입 러기드 미니 키링 케이블",
+        "option_name": "1개 옐로우 13.5cm"
+      },
+      {
+        "info_row": 428,
+        "inventory_id": "15977322361",
+        "option_id": "94530312504",
+        "sku_id": "68804859",
+        "product_name": "익스텐드 수평 to 수평 C타입 PD100W 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 429,
+        "inventory_id": "15982171085",
+        "option_id": "94549374139",
+        "sku_id": "68893927",
+        "product_name": "4in1 수평 to 수평 C타입 초고속 충전 액상 실리콘 케이블 100W",
+        "option_name": "1개 화이트 2m"
+      },
+      {
+        "info_row": 430,
+        "inventory_id": "15982171085",
+        "option_id": "94549374145",
+        "sku_id": "68893926",
+        "product_name": "4in1 수평 to 수평 C타입 초고속 충전 액상 실리콘 케이블 100W",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 431,
+        "inventory_id": "15991482720",
+        "option_id": "94585402083",
+        "sku_id": "69038655",
+        "product_name": "리노 마그네틱 C타입 to 수평 USB-A 선꼬임 방지 충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 433,
+        "inventory_id": "15998177451",
+        "option_id": "94614051619",
+        "sku_id": "69155866",
+        "product_name": "4in1 수평 to 수평 C타입 블록 스타일 파스텔 케이블",
+        "option_name": "1개 핑크피치 1m"
+      },
+      {
+        "info_row": 434,
+        "inventory_id": "15998177451",
+        "option_id": "94614051621",
+        "sku_id": "69155864",
+        "product_name": "4in1 수평 to 수평 C타입 블록 스타일 파스텔 케이블",
+        "option_name": "1개 피치스카이 1m"
+      },
+      {
+        "info_row": 435,
+        "inventory_id": "15998177451",
+        "option_id": "94614051623",
+        "sku_id": "69155865",
+        "product_name": "4in1 수평 to 수평 C타입 블록 스타일 파스텔 케이블",
+        "option_name": "1개 블루레몬 1m"
+      },
+      {
+        "info_row": 436,
+        "inventory_id": "16006622450",
+        "option_id": "94649184479",
+        "sku_id": "69285885",
+        "product_name": "벤디 디스플레이 패브릭 수평 to 수평 C타입 스프링 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 437,
+        "inventory_id": "16118441615",
+        "option_id": "95093777556",
+        "sku_id": "71229539",
+        "product_name": "에이스 240W 수평 C타입 to 수평 8핀 초고속충전 케이블",
+        "option_name": "1개 실버 1.5m"
+      },
+      {
+        "info_row": 438,
+        "inventory_id": "16120764093",
+        "option_id": "95102691249",
+        "sku_id": "71292772",
+        "product_name": "루모 USB4 40Gbps 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 240W 8K",
+        "option_name": "1개 블랙 0.5m"
+      },
+      {
+        "info_row": 439,
+        "inventory_id": "16120764093",
+        "option_id": "95102691251",
+        "sku_id": "71292771",
+        "product_name": "루모 USB4 40Gbps 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 240W 8K",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 440,
+        "inventory_id": "16130975438",
+        "option_id": "95143051685",
+        "sku_id": "71540285",
+        "product_name": "엑손 240W 80Gbps USB5 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 16K",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 441,
+        "inventory_id": "16138604209",
+        "option_id": "95174131922",
+        "sku_id": "71723733",
+        "product_name": "코벨 수평 USB-A to 역직각 C타입 6A 고속충전 패브릭 케이블 최대 66W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 442,
+        "inventory_id": "16140787499",
+        "option_id": "95183072032",
+        "sku_id": "71786784",
+        "product_name": "화이트 ARGB 컨트롤러 5V 3핀 SATA 전원 LED조명 케이블",
+        "option_name": "1개 415mm"
+      },
+      {
+        "info_row": 443,
+        "inventory_id": "16164038575",
+        "option_id": "95275697160",
+        "sku_id": "72448909",
+        "product_name": "올인원 메탈 클립형 4in1 수평 to 수평 C타입 멀티 고속충전 케이블 240W PD",
+        "option_name": "1개 그레이 1.8m"
+      },
+      {
+        "info_row": 444,
+        "inventory_id": "16165788871",
+        "option_id": "95282844039",
+        "sku_id": "72512356",
+        "product_name": "텐코드 240W 수평 to 수평 C타입 자동수납 초고속 충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 445,
+        "inventory_id": "16165788871",
+        "option_id": "95282844040",
+        "sku_id": "72512354",
+        "product_name": "텐코드 240W 수평 to 수평 C타입 자동수납 초고속 충전 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 446,
+        "inventory_id": "16165788871",
+        "option_id": "95282844041",
+        "sku_id": "72512355",
+        "product_name": "텐코드 240W 수평 to 수평 C타입 자동수납 초고속 충전 케이블",
+        "option_name": "1개 오렌지 1m"
+      },
+      {
+        "info_row": 447,
+        "inventory_id": "16167950019",
+        "option_id": "95291078534",
+        "sku_id": "72581656",
+        "product_name": "글로시 크롬 4in1 멀티 커넥터 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 그레이 1.5m"
+      },
+      {
+        "info_row": 448,
+        "inventory_id": "16176356919",
+        "option_id": "95323481987",
+        "sku_id": "72849279",
+        "product_name": "플랫플랙스 직각 to 수평 C타입 미니 연장 케이블 66w",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 450,
+        "inventory_id": "16197956146",
+        "option_id": "95407015067",
+        "sku_id": "73459446",
+        "product_name": "오닉스 C타입 듀얼 3.5mm 수평 to 수평 오디오 마이크 변환 케이블",
+        "option_name": "무광 블루그레이 1개 C to 3.5mm"
+      },
+      {
+        "info_row": 452,
+        "inventory_id": "16202285151",
+        "option_id": "95423037801",
+        "sku_id": "73598524",
+        "product_name": "스테이지 듀얼 3.5mm 수평 to 수평 오디오 마이크 분배 케이블",
+        "option_name": "블루그레이 1개 3.5mm"
+      },
+      {
+        "info_row": 454,
+        "inventory_id": "16206185253",
+        "option_id": "95436620350",
+        "sku_id": "73721538",
+        "product_name": "브릭 360도 회전 케이블 정리 홀더",
+        "option_name": "3개 블랙 23x19mm"
+      },
+      {
+        "info_row": 455,
+        "inventory_id": "16217245495",
+        "option_id": "95476005332",
+        "sku_id": "74042417",
+        "product_name": "제노스 역직각 to 수평 C타입 거치형 240W 고속충전 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 456,
+        "inventory_id": "16235322076",
+        "option_id": "95537376776",
+        "sku_id": "74545241",
+        "product_name": "스탠픽 역직각 C타입 to 수평 2in1 USB-A+C 실리콘 거치형 충전 케이블",
+        "option_name": "1개 그린 1.2m"
+      },
+      {
+        "info_row": 457,
+        "inventory_id": "16253801487",
+        "option_id": "95594830865",
+        "sku_id": "75045099",
+        "product_name": "교체형 사운드 튜닝 FPS 게이밍 유선 이어폰 Y자형 변환 케이블+길이연장 케이블 세트",
+        "option_name": "블랙 3.5mm"
+      },
+      {
+        "info_row": 458,
+        "inventory_id": "16261929397",
+        "option_id": "95619712861",
+        "sku_id": "75259360",
+        "product_name": "슬릭 C타입 to 3.5mm 직각 연결 숏케이블",
+        "option_name": "1개 실버 12cm"
+      },
+      {
+        "info_row": 460,
+        "inventory_id": "16343173372",
+        "option_id": "95912145330",
+        "sku_id": "78090677",
+        "product_name": "구글 핏빗 에어 호환 A타입 자석식 충전 케이블",
+        "option_name": "1개 화이트 1m"
+      },
+      {
+        "info_row": 461,
+        "inventory_id": "16351084324",
+        "option_id": "95940790003",
+        "sku_id": "78448639",
+        "product_name": "사운드강화 FPS 게이밍 유선 이어폰 Y자형 변환 케이블 포함 3.5mm C타입 겸용",
+        "option_name": "블랙 1.2m"
+      },
+      {
+        "info_row": 462,
+        "inventory_id": "16361391440",
+        "option_id": "95978293094",
+        "sku_id": "78937259",
+        "product_name": "모바 수평 8핀 to 수평 3.5mm 숏케이블",
+        "option_name": "1개 화이트 10.5cm"
+      },
+      {
+        "info_row": 463,
+        "inventory_id": "16368524453",
+        "option_id": "96004624647",
+        "sku_id": "79307553",
+        "product_name": "링코 수평 USB-A to 수평 3.5mm 숏케이블",
+        "option_name": "1개 실버 15.7cm"
+      },
+      {
+        "info_row": 465,
+        "inventory_id": "16391553965",
+        "option_id": "96085529049",
+        "sku_id": "80827296",
+        "product_name": "화웨이밴드 10/11/11pro 호환 USB-A타입 자석충전 케이블",
+        "option_name": "1m 블랙 1개"
+      },
+      {
+        "info_row": 466,
+        "inventory_id": "16391553965",
+        "option_id": "96085529050",
+        "sku_id": "80827299",
+        "product_name": "화웨이밴드 10/11/11pro 호환 USB-A타입 자석충전 케이블",
+        "option_name": "1m 화이트 1개"
+      },
+      {
+        "info_row": 467,
+        "inventory_id": "16391553965",
+        "option_id": "96085529051",
+        "sku_id": "80827298",
+        "product_name": "화웨이밴드 10/11/11pro 호환 USB-A타입 자석충전 케이블",
+        "option_name": "0.6m 화이트 1개"
+      },
+      {
+        "info_row": 468,
+        "inventory_id": "16391557169",
+        "option_id": "96085550726",
+        "sku_id": "80827517",
+        "product_name": "화웨이밴드 10/11/11pro 호환 C타입 자석충전 케이블",
+        "option_name": "화이트 1개 1m"
+      },
+      {
+        "info_row": 469,
+        "inventory_id": "16419502123",
+        "option_id": "96204109274",
+        "sku_id": "82258961",
+        "product_name": "파워 100W 역직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 3m"
+      },
+      {
+        "info_row": 470,
+        "inventory_id": "16419502123",
+        "option_id": "96204109275",
+        "sku_id": "82258960",
+        "product_name": "파워 100W 역직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 5m"
+      },
+      {
+        "info_row": 471,
+        "inventory_id": "16419502123",
+        "option_id": "96204109276",
+        "sku_id": "82258959",
+        "product_name": "파워 100W 역직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 472,
+        "inventory_id": "16424570525",
+        "option_id": "96222733817",
+        "sku_id": "82571096",
+        "product_name": "레이밴 메타 AI 스마트 안경 호환 C타입 충전케이블",
+        "option_name": "네이비 1개"
+      },
+      {
+        "info_row": 473,
+        "inventory_id": "16429070363",
+        "option_id": "96239134966",
+        "sku_id": "82836181",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 100cm 1개"
+      },
+      {
+        "info_row": 474,
+        "inventory_id": "16429070363",
+        "option_id": "96239134967",
+        "sku_id": "82836182",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 60cm 1개"
+      },
+      {
+        "info_row": 475,
+        "inventory_id": "16429070363",
+        "option_id": "96239160368",
+        "sku_id": "82836182",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 60cm 2개"
+      },
+      {
+        "info_row": 476,
+        "inventory_id": "16429070363",
+        "option_id": "96239160369",
+        "sku_id": "82836182",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 60cm 3개"
+      },
+      {
+        "info_row": 477,
+        "inventory_id": "16429070363",
+        "option_id": "96239160370",
+        "sku_id": "82836181",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 100cm 3개"
+      },
+      {
+        "info_row": 478,
+        "inventory_id": "16429070363",
+        "option_id": "96239160371",
+        "sku_id": "82836181",
+        "product_name": "스마트링 원형 4.0mm 마그네틱 USB 충전 케이블",
+        "option_name": "블랙, 100cm 2개"
+      },
+      {
+        "info_row": 479,
+        "inventory_id": "16431134342",
+        "option_id": "96246876506",
+        "sku_id": "82992229",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 화이트"
+      },
+      {
+        "info_row": 480,
+        "inventory_id": "16431134342",
+        "option_id": "96246876507",
+        "sku_id": "82992228",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "1개 블랙"
+      },
+      {
+        "info_row": 481,
+        "inventory_id": "16431134342",
+        "option_id": "96246927916",
+        "sku_id": "82992229",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "3개 화이트"
+      },
+      {
+        "info_row": 482,
+        "inventory_id": "16431134342",
+        "option_id": "96246927917",
+        "sku_id": "82992228",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "2개 블랙"
+      },
+      {
+        "info_row": 483,
+        "inventory_id": "16431134342",
+        "option_id": "96246927918",
+        "sku_id": "82992228",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "3개 블랙"
+      },
+      {
+        "info_row": 484,
+        "inventory_id": "16431134342",
+        "option_id": "96246927919",
+        "sku_id": "82992229",
+        "product_name": "글로우 5V 3핀 ARGB LED 전원 케이블 튜닝 커버",
+        "option_name": "2개 화이트"
+      },
+      {
+        "info_row": 485,
+        "inventory_id": "14226226592",
+        "option_id": "86492752392",
+        "sku_id": "36970120",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 4. 캐릭터 충전케이블 보호캡-브라운베어 2P"
+      },
+      {
+        "info_row": 486,
+        "inventory_id": "14361942922",
+        "option_id": "87100545754",
+        "sku_id": "38720791",
+        "product_name": "올인원 블록 케이블 선정리 홀더",
+        "option_name": "2. 올인원블록 케이블 선정리홀더-블랙"
+      },
+      {
+        "info_row": 487,
+        "inventory_id": "14361942922",
+        "option_id": "87100545766",
+        "sku_id": "38720792",
+        "product_name": "올인원 블록 케이블 선정리 홀더",
+        "option_name": "1. 올인원블록 케이블 선정리홀더-화이트"
+      },
+      {
+        "info_row": 488,
+        "inventory_id": "15317386190",
+        "option_id": "91684485007",
+        "sku_id": "55003209",
+        "product_name": "수평 USB-A to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 그레이 0.25m"
+      },
+      {
+        "info_row": 489,
+        "inventory_id": "15334773460",
+        "option_id": "91744036590",
+        "sku_id": "55471167",
+        "product_name": "네트 마그네틱 수평 to 수평 C타입 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 490,
+        "inventory_id": "15371678506",
+        "option_id": "91881498520",
+        "sku_id": "56222131",
+        "product_name": "4in1 멀티 실리콘 케이블",
+        "option_name": "1개 1m 블랙"
+      },
+      {
+        "info_row": 491,
+        "inventory_id": "15373179400",
+        "option_id": "91887308744",
+        "sku_id": "56249625",
+        "product_name": "수평 to 수평 C타입 OTG 플랫형 케이블",
+        "option_name": "1개 옐로우 23cm"
+      },
+      {
+        "info_row": 492,
+        "inventory_id": "15381220168",
+        "option_id": "91916501018",
+        "sku_id": "56394315",
+        "product_name": "수평 to 수평 C타입 미니 키링 케이블",
+        "option_name": "1개 그레이 11.5cm"
+      },
+      {
+        "info_row": 493,
+        "inventory_id": "15454460498",
+        "option_id": "92187265106",
+        "sku_id": "58157257",
+        "product_name": "수평 C타입 to 수평 8핀 마그네틱 미니 키링 케이블",
+        "option_name": "1개 그레이 7.2cm"
+      },
+      {
+        "info_row": 494,
+        "inventory_id": "15454953604",
+        "option_id": "92188951942",
+        "sku_id": "58173934",
+        "product_name": "트로피칼 C타입 to 8핀 스프링 케이블",
+        "option_name": "1개 1.6m 핑크블루"
+      },
+      {
+        "info_row": 495,
+        "inventory_id": "15475018229",
+        "option_id": "92268364011",
+        "sku_id": "58615124",
+        "product_name": "슬림라인 USB-A to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 블랙 1개"
+      },
+      {
+        "info_row": 497,
+        "inventory_id": "15393798864",
+        "option_id": "92403915346",
+        "sku_id": "59467448",
+        "product_name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 옐로우 3m"
+      },
+      {
+        "info_row": 498,
+        "inventory_id": "15548311627",
+        "option_id": "92574323621",
+        "sku_id": "60395716",
+        "product_name": "소켓 수평 USB-C to 수평 SATA 2.5형 변환 케이블",
+        "option_name": "1개 블랙 44cm"
+      },
+      {
+        "info_row": 499,
+        "inventory_id": "15556523990",
+        "option_id": "92610381359",
+        "sku_id": "60583397",
+        "product_name": "CAT8 초고속 360도 회전 꺾임 랜케이블",
+        "option_name": "1개 3m 블랙"
+      },
+      {
+        "info_row": 500,
+        "inventory_id": "15556523990",
+        "option_id": "92610381366",
+        "sku_id": "60583396",
+        "product_name": "CAT8 초고속 360도 회전 꺾임 랜케이블",
+        "option_name": "1개 5m 블랙"
+      },
+      {
+        "info_row": 502,
+        "inventory_id": "15600307797",
+        "option_id": "92785920100",
+        "sku_id": "61414574",
+        "product_name": "수평 to 수평 C타입 6in1 마그네틱 TPE 멀티 미니 키링 케이블",
+        "option_name": "1개 0.135m"
+      },
+      {
+        "info_row": 503,
+        "inventory_id": "15664138006",
+        "option_id": "93098644306",
+        "sku_id": "62579525",
+        "product_name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 1.5m"
+      },
+      {
+        "info_row": 507,
+        "inventory_id": "15886590157",
+        "option_id": "94167088171",
+        "sku_id": "67363031",
+        "product_name": "가민워치 2in1 USB A C타입 호환 거치 패드 충전 케이블",
+        "option_name": "1개 120cm 블랙"
+      },
+      {
+        "info_row": 508,
+        "inventory_id": "15893863716",
+        "option_id": "94198880812",
+        "sku_id": "67504285",
+        "product_name": "4in1 수평 8핀 C타입 to 수평 3.5mm 오디오 고속충전 케이블",
+        "option_name": "1개 블랙 15.7cm"
+      },
+      {
+        "info_row": 511,
+        "inventory_id": "15962032202",
+        "option_id": "94471944592",
+        "sku_id": "68591879",
+        "product_name": "스토리지 수평 USB-A to 수평 5핀 8핀 C타입 자석 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 512,
+        "inventory_id": "15965334104",
+        "option_id": "94484045433",
+        "sku_id": "68648412",
+        "product_name": "멀티플렉스 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 513,
+        "inventory_id": "16011792941",
+        "option_id": "94669407929",
+        "sku_id": "69378965",
+        "product_name": "8K UHD 수평 DP to 수평 DP 고강도 패브릭 케이블 1.4v 양방향 디스플레이 포트",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 515,
+        "inventory_id": "16107906489",
+        "option_id": "95052583312",
+        "sku_id": "70988450",
+        "product_name": "브레이드 패브릭 수평 to 수평 C타입 240W 초고속 충전 데이터 케이블",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 516,
+        "inventory_id": "16107906489",
+        "option_id": "95052583314",
+        "sku_id": "70988449",
+        "product_name": "브레이드 패브릭 수평 to 수평 C타입 240W 초고속 충전 데이터 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 517,
+        "inventory_id": "15965334104",
+        "option_id": "95058251844",
+        "sku_id": "71016171",
+        "product_name": "멀티플렉스 직각 to 역직각 C타입 플랫 실리콘 케이블 66W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 519,
+        "inventory_id": "16130975438",
+        "option_id": "95143051686",
+        "sku_id": "71540286",
+        "product_name": "엑손 240W 80Gbps USB5 썬더볼트 호환 수평 to 수평 C타입 올인원 케이블 16K",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 520,
+        "inventory_id": "16138543374",
+        "option_id": "95173881408",
+        "sku_id": "71721947",
+        "product_name": "큐브 OTG 멀티 수평 to 수평 C타입 케이블",
+        "option_name": "1개 블랙 20cm"
+      },
+      {
+        "info_row": 521,
+        "inventory_id": "16159349032",
+        "option_id": "95256999981",
+        "sku_id": "72325605",
+        "product_name": "메탈 바디 240W PD 전력표시 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 C to C 2m"
+      },
+      {
+        "info_row": 523,
+        "inventory_id": "15967661681",
+        "option_id": "95414432109",
+        "sku_id": "73526530",
+        "product_name": "스위치전원 USB 3.0 고속 연장케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 527,
+        "inventory_id": "16398135028",
+        "option_id": "96116368271",
+        "sku_id": "81179790",
+        "product_name": "로키드 스마트안경 호환 3핀 자석 충전 케이블",
+        "option_name": "1개 USB-C 암(F) 30cm"
+      },
+      {
+        "info_row": 528,
+        "inventory_id": "13530084563",
+        "option_id": "82997928376",
+        "sku_id": "27897150",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "1. C타입 to 라이트닝 레드 1.2m 1개"
+      },
+      {
+        "info_row": 529,
+        "inventory_id": "13530084563",
+        "option_id": "82997928390",
+        "sku_id": "27897155",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "6. USB-A to 라이트닝 블랙 1.2m 1개"
+      },
+      {
+        "info_row": 530,
+        "inventory_id": "14226226592",
+        "option_id": "86492752352",
+        "sku_id": "36970117",
+        "product_name": "캐릭터 충전케이블 보호캡",
+        "option_name": "1세트 2. 캐릭터 충전케이블 보호캡-옐로우칙 2P"
+      },
+      {
+        "info_row": 531,
+        "inventory_id": "15200908521",
+        "option_id": "91272789018",
+        "sku_id": "51745078",
+        "product_name": "고속충전케이블 투인원 넥스트랩",
+        "option_name": "1개 1m CtoC 블랙"
+      },
+      {
+        "info_row": 532,
+        "inventory_id": "15306521179",
+        "option_id": "91647104130",
+        "sku_id": "54705825",
+        "product_name": "트로피칼 C to C타입 스프링 케이블",
+        "option_name": "1개 1.6m 핑크블루"
+      },
+      {
+        "info_row": 533,
+        "inventory_id": "15309350006",
+        "option_id": "91656802875",
+        "sku_id": "54789860",
+        "product_name": "디플랫 수평 to 수평 C타입 미니케이블",
+        "option_name": "1개 블랙 13cm"
+      },
+      {
+        "info_row": 535,
+        "inventory_id": "15392506892",
+        "option_id": "91954983510",
+        "sku_id": "56640094",
+        "product_name": "패브릭 수평 to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 화이트 3m"
+      },
+      {
+        "info_row": 538,
+        "inventory_id": "15475018229",
+        "option_id": "92268364019",
+        "sku_id": "58615123",
+        "product_name": "슬림라인 USB-A to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 블루 1개"
+      },
+      {
+        "info_row": 539,
+        "inventory_id": "15475255955",
+        "option_id": "92269181055",
+        "sku_id": "58622872",
+        "product_name": "슬림라인 C타입 to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 블랙 1개"
+      },
+      {
+        "info_row": 540,
+        "inventory_id": "15558212989",
+        "option_id": "92617956117",
+        "sku_id": "60625235",
+        "product_name": "수평 to 수평 CAT8 초고속 패브릭 플랫 랜케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 542,
+        "inventory_id": "15572494601",
+        "option_id": "92680445434",
+        "sku_id": "60941762",
+        "product_name": "U자형 to 수평 C타입 소프트 미니 케이블",
+        "option_name": "1개 130mm"
+      },
+      {
+        "info_row": 544,
+        "inventory_id": "15664138006",
+        "option_id": "93098644337",
+        "sku_id": "62579526",
+        "product_name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 0.5m"
+      },
+      {
+        "info_row": 545,
+        "inventory_id": "15668092592",
+        "option_id": "93117700476",
+        "sku_id": "62666421",
+        "product_name": "코튼터치 수평 C타입 to 수평 8핀 미니 플랫 케이블",
+        "option_name": "1개 블랙 15.5cm"
+      },
+      {
+        "info_row": 546,
+        "inventory_id": "15668092592",
+        "option_id": "93117700483",
+        "sku_id": "62666423",
+        "product_name": "코튼터치 수평 C타입 to 수평 8핀 미니 플랫 케이블",
+        "option_name": "1개 라벤더 15.5cm"
+      },
+      {
+        "info_row": 550,
+        "inventory_id": "15782344053",
+        "option_id": "93678178075",
+        "sku_id": "65133317",
+        "product_name": "듀론 직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 552,
+        "inventory_id": "15982171085",
+        "option_id": "94549374147",
+        "sku_id": "68893924",
+        "product_name": "4in1 수평 to 수평 C타입 초고속 충전 액상 실리콘 케이블 100W",
+        "option_name": "1개 블랙 2m"
+      },
+      {
+        "info_row": 553,
+        "inventory_id": "15991541815",
+        "option_id": "94585658614",
+        "sku_id": "69040291",
+        "product_name": "스마트폴드 4in1 수평 to 수평 릴 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 554,
+        "inventory_id": "16003874607",
+        "option_id": "94638393709",
+        "sku_id": "69233959",
+        "product_name": "2in1 수평 to 수평 C타입 초고속 충전 듀얼라인 멀티 케이블 100W PD",
+        "option_name": "1개 실버 1m"
+      },
+      {
+        "info_row": 556,
+        "inventory_id": "16014098683",
+        "option_id": "94678180003",
+        "sku_id": "69418691",
+        "product_name": "거치대 꺾임형 C타입 to 수평 USB-A 65W 고속 충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 560,
+        "inventory_id": "16146375685",
+        "option_id": "95204735890",
+        "sku_id": "71949691",
+        "product_name": "위보 직각 to 수평 C타입 스프링 패브릭 케이블 100W 초고속충전",
+        "option_name": "1개 그레이 1.6m"
+      },
+      {
+        "info_row": 561,
+        "inventory_id": "16157507027",
+        "option_id": "95249851055",
+        "sku_id": "72266530",
+        "product_name": "C 94 60W USB-A to C 충전 케이블",
+        "option_name": "1개 그레이 1.5m"
+      },
+      {
+        "info_row": 562,
+        "inventory_id": "16159349032",
+        "option_id": "95256999978",
+        "sku_id": "72325606",
+        "product_name": "메탈 바디 240W PD 전력표시 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 C to C 1.2m"
+      },
+      {
+        "info_row": 563,
+        "inventory_id": "16202285151",
+        "option_id": "95423037800",
+        "sku_id": "73598523",
+        "product_name": "스테이지 듀얼 3.5mm 수평 to 수평 오디오 마이크 분배 케이블",
+        "option_name": "블랙 1개 3.5mm"
+      },
+      {
+        "info_row": 566,
+        "inventory_id": "15929221596",
+        "option_id": "95542587034",
+        "sku_id": "74588673",
+        "product_name": "파이온 240W 직각 to 수평 C타입 소프트 숏 케이블",
+        "option_name": "1개 옐로우 60mm"
+      },
+      {
+        "info_row": 567,
+        "inventory_id": "16237294540",
+        "option_id": "95544015516",
+        "sku_id": "74606056",
+        "product_name": "사운드 강화 FPS 게이밍 유선 이어폰 Y자형 변환 케이블 포함",
+        "option_name": "블랙 3.5mm"
+      },
+      {
+        "info_row": 570,
+        "inventory_id": "16294463785",
+        "option_id": "95740522821",
+        "sku_id": "76243721",
+        "product_name": "소닉 6.35mm 직각 to 수평 오디오 케이블",
+        "option_name": "1개 6M"
+      },
+      {
+        "info_row": 579,
+        "inventory_id": "16419507140",
+        "option_id": "96204128777",
+        "sku_id": "82259593",
+        "product_name": "파워 100W 직각 to 역직각 C타입 패브릭 초고속충전 케이블",
+        "option_name": "1개 블랙 1.5m"
+      },
+      {
+        "info_row": 580,
+        "inventory_id": "13530084563",
+        "option_id": "82997928382",
+        "sku_id": "27897152",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "3. C타입 to C타입 레드 1.2m 1개"
+      },
+      {
+        "info_row": 581,
+        "inventory_id": "13530084563",
+        "option_id": "82997928384",
+        "sku_id": "27897153",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "4. C타입 to C타입 블랙 1.2m 1개"
+      },
+      {
+        "info_row": 582,
+        "inventory_id": "15323101225",
+        "option_id": "91703891852",
+        "sku_id": "55167142",
+        "product_name": "불릿 C to C타입 스프링 케이블",
+        "option_name": "1.8m 옐로우 1개"
+      },
+      {
+        "info_row": 587,
+        "inventory_id": "15484689991",
+        "option_id": "92308369688",
+        "sku_id": "58871206",
+        "product_name": "캔디팝 마그네틱 C to C타입 케이블",
+        "option_name": "1개 1m 코랄팝"
+      },
+      {
+        "info_row": 592,
+        "inventory_id": "15533753758",
+        "option_id": "92515539432",
+        "sku_id": "60030130",
+        "product_name": "루미네온 C타입 to 8핀 케이블",
+        "option_name": "1개 2m 레인보우"
+      },
+      {
+        "info_row": 594,
+        "inventory_id": "15548296142",
+        "option_id": "92574268510",
+        "sku_id": "60394876",
+        "product_name": "버텍스 수평 USB-C A to 수평 SATA 2.5형 변환 케이블",
+        "option_name": "1개 블랙 22cm"
+      },
+      {
+        "info_row": 595,
+        "inventory_id": "15556523990",
+        "option_id": "92610381346",
+        "sku_id": "60583395",
+        "product_name": "CAT8 초고속 360도 회전 꺾임 랜케이블",
+        "option_name": "1개 1.5m 블랙"
+      },
+      {
+        "info_row": 596,
+        "inventory_id": "15558212989",
+        "option_id": "92617956129",
+        "sku_id": "60625233",
+        "product_name": "수평 to 수평 CAT8 초고속 패브릭 플랫 랜케이블",
+        "option_name": "1개 블랙 0.5m"
+      },
+      {
+        "info_row": 600,
+        "inventory_id": "15627992712",
+        "option_id": "92920244941",
+        "sku_id": "61932767",
+        "product_name": "아이스젤리 수평 to 수평 C타입 케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 604,
+        "inventory_id": "15664138006",
+        "option_id": "93098644312",
+        "sku_id": "62579524",
+        "product_name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 605,
+        "inventory_id": "15664138006",
+        "option_id": "93098644322",
+        "sku_id": "62579522",
+        "product_name": "수평 C타입 to 수평 마이크로B(3.0) 변환 케이블",
+        "option_name": "1개 2m"
+      },
+      {
+        "info_row": 611,
+        "inventory_id": "15782344053",
+        "option_id": "93678178074",
+        "sku_id": "65133316",
+        "product_name": "듀론 직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "option_name": "1개 브라운 1.6m"
+      },
+      {
+        "info_row": 612,
+        "inventory_id": "15782915438",
+        "option_id": "93680818988",
+        "sku_id": "65153931",
+        "product_name": "(하이퍼) 8핀 to C타입 케이블 연결 변환 젠더",
+        "option_name": "1개 22mm 블랙"
+      },
+      {
+        "info_row": 618,
+        "inventory_id": "15942912708",
+        "option_id": "94394889715",
+        "sku_id": "68328720",
+        "product_name": "초고속 수평 to 수평 HDMI 케이블 v2.1 8K UHD 48Gbps Type-R",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 620,
+        "inventory_id": "15948243370",
+        "option_id": "94416963976",
+        "sku_id": "68402541",
+        "product_name": "6Gbps 고속전송 노바 수평 to 수평 SATA 3.0 패브릭 케이블 블랙",
+        "option_name": "1개 50cm"
+      },
+      {
+        "info_row": 630,
+        "inventory_id": "16040157841",
+        "option_id": "94781337772",
+        "sku_id": "69832618",
+        "product_name": "롤싱크 100W PD 수평 to 수평 C타입 충전 릴케이블",
+        "option_name": "1개 블랙 1m"
+      },
+      {
+        "info_row": 640,
+        "inventory_id": "16171898048",
+        "option_id": "95305745534",
+        "sku_id": "72710976",
+        "product_name": "유니버설 Hi-Fi 수평 3in1 C타입 라이트닝 3.5mm to 수평 듀얼 6.35mm 오디오 케이블",
+        "option_name": "블랙 1개 2m"
+      },
+      {
+        "info_row": 649,
+        "inventory_id": "16249465766",
+        "option_id": "95581291491",
+        "sku_id": "74893613",
+        "product_name": "입체 사운드 FPS 게이밍 유선 이어폰 C타입 변환 케이블 포함",
+        "option_name": "블랙 3.5mm"
+      },
+      {
+        "info_row": 681,
+        "inventory_id": "13530084563",
+        "option_id": "82997928387",
+        "sku_id": "27897154",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "5. USB-A to 라이트닝 레드 1.2m 1개"
+      },
+      {
+        "info_row": 682,
+        "inventory_id": "14272364461",
+        "option_id": "86702549973",
+        "sku_id": "37497612",
+        "product_name": "스마일 충전케이블 보호캡",
+        "option_name": "4. 스마일 충전케이블 보호캡-스마일핑크 2P 1개"
+      },
+      {
+        "info_row": 684,
+        "inventory_id": "15236680575",
+        "option_id": "91400855545",
+        "sku_id": "52818760",
+        "product_name": "고속충전케이블 투인원 핸드스트랩",
+        "option_name": "1개 400mm CtoC 블랙"
+      },
+      {
+        "info_row": 685,
+        "inventory_id": "15310401146",
+        "option_id": "91660513891",
+        "sku_id": "54816584",
+        "product_name": "모찌클레이 C to C타입 고속충전 케이블",
+        "option_name": "1개 1.5m 네로블랙"
+      },
+      {
+        "info_row": 692,
+        "inventory_id": "15393798864",
+        "option_id": "92403915333",
+        "sku_id": "59467450",
+        "product_name": "듀얼톤 수평 USB-A to 수평 C타입 키보드 스프링 항공 케이블",
+        "option_name": "1개 핑크 3m"
+      },
+      {
+        "info_row": 700,
+        "inventory_id": "15323177870",
+        "option_id": "92741091656",
+        "sku_id": "61238007",
+        "product_name": "미니벤트 직각 to 수평 C타입 연장케이블",
+        "option_name": "1개 블랙 32cm"
+      },
+      {
+        "info_row": 717,
+        "inventory_id": "15782920615",
+        "option_id": "93680842609",
+        "sku_id": "65154183",
+        "product_name": "(하이퍼) C타입 to 8핀 케이블 연결 변환 젠더",
+        "option_name": "1개 20mm 블랙"
+      },
+      {
+        "info_row": 728,
+        "inventory_id": "15870214147",
+        "option_id": "94094722449",
+        "sku_id": "66999467",
+        "product_name": "수평 C타입 to 수평 HDMI 네온톤 패브릭 케이블",
+        "option_name": "1개 오렌지 1.8m"
+      },
+      {
+        "info_row": 742,
+        "inventory_id": "15969231314",
+        "option_id": "94499348574",
+        "sku_id": "68702289",
+        "product_name": "마그네틱 헤드 180도 회전 to 수평 C타입 초고속충전 패브릭 케이블 100w",
+        "option_name": "1개 네이비 2m"
+      },
+      {
+        "info_row": 747,
+        "inventory_id": "16023752795",
+        "option_id": "94716687815",
+        "sku_id": "69575642",
+        "product_name": "차지트리오 3in1 수평 to 수평 C타입 케이블",
+        "option_name": "1개 블랙 120cm"
+      },
+      {
+        "info_row": 750,
+        "inventory_id": "16034088986",
+        "option_id": "94757324727",
+        "sku_id": "69731074",
+        "product_name": "템프가드 온도제어 240W 스마트 수평 to 수평 C타입 케이블",
+        "option_name": "1개 화이트 150cm"
+      },
+      {
+        "info_row": 770,
+        "inventory_id": "16127317685",
+        "option_id": "95140878929",
+        "sku_id": "71522915",
+        "product_name": "블립 스위치전원 수평 to 수평 USB 연장 숏케이블",
+        "option_name": "1개 블랙 32cm"
+      },
+      {
+        "info_row": 772,
+        "inventory_id": "16144820788",
+        "option_id": "95198714198",
+        "sku_id": "71907951",
+        "product_name": "2in1 수평 USB-A to 수평 C타입 듀얼포트 Y형 고속충전 케이블",
+        "option_name": "1개 USB-A to C 1m"
+      },
+      {
+        "info_row": 776,
+        "inventory_id": "16157502140",
+        "option_id": "95249836323",
+        "sku_id": "72266290",
+        "product_name": "고출력 240W PD 초고속충전 수평 to 수평 C타입 케이블",
+        "option_name": "1개 그레이 1.5m"
+      },
+      {
+        "info_row": 778,
+        "inventory_id": "16171898048",
+        "option_id": "95305745535",
+        "sku_id": "72710977",
+        "product_name": "유니버설 Hi-Fi 수평 3in1 C타입 라이트닝 3.5mm to 수평 듀얼 6.35mm 오디오 케이블",
+        "option_name": "블랙 1개 1.3m"
+      },
+      {
+        "info_row": 780,
+        "inventory_id": "16178128642",
+        "option_id": "95330742143",
+        "sku_id": "72924924",
+        "product_name": "플로우 충전 데이터 분리형 수평 to 수평 C타입 멀티 분배 케이블",
+        "option_name": "1개 2in1 50cm"
+      },
+      {
+        "info_row": 900,
+        "inventory_id": "13530084563",
+        "option_id": "82997928394",
+        "sku_id": "27897156",
+        "product_name": "디스플레이 고속 충전 케이블",
+        "option_name": "7. USB-A to C타입 레드 1.2m 1개"
+      },
+      {
+        "info_row": 901,
+        "inventory_id": "14403283800",
+        "option_id": "87287624760",
+        "sku_id": "39375543",
+        "product_name": "스퀘어 케이블 선정리 홀더",
+        "option_name": "스퀘어 케이블 선정리 홀더-블랙 1개"
+      },
+      {
+        "info_row": 910,
+        "inventory_id": "15301155470",
+        "option_id": "91641129208",
+        "sku_id": "54577161",
+        "product_name": "밀리터리 USB-A to C타입 스프링 케이블",
+        "option_name": "1개 1.8m 카키"
+      },
+      {
+        "info_row": 911,
+        "inventory_id": "15306515078",
+        "option_id": "91647081700",
+        "sku_id": "54705586",
+        "product_name": "트로피칼 USB-A to C타입 스프링 케이블",
+        "option_name": "1개 1.6m 옐로우마린"
+      },
+      {
+        "info_row": 912,
+        "inventory_id": "15306515078",
+        "option_id": "91647081716",
+        "sku_id": "54705585",
+        "product_name": "트로피칼 USB-A to C타입 스프링 케이블",
+        "option_name": "1개 1.6m 핑크블루"
+      },
+      {
+        "info_row": 916,
+        "inventory_id": "15382616629",
+        "option_id": "91921497360",
+        "sku_id": "56420327",
+        "product_name": "수평 USB to 수평 C타입 미니 키링 케이블",
+        "option_name": "1개 그레이 11.5cm"
+      },
+      {
+        "info_row": 927,
+        "inventory_id": "15306515078",
+        "option_id": "92061001222",
+        "sku_id": "57328437",
+        "product_name": "트로피칼 USB-A to C타입 스프링 케이블",
+        "option_name": "1개 1.6m 그레이민트"
+      },
+      {
+        "info_row": 932,
+        "inventory_id": "15454953604",
+        "option_id": "92188951919",
+        "sku_id": "58173935",
+        "product_name": "트로피칼 C타입 to 8핀 스프링 케이블",
+        "option_name": "1개 1.6m 옐로우마린"
+      },
+      {
+        "info_row": 937,
+        "inventory_id": "15475255955",
+        "option_id": "92269181042",
+        "sku_id": "58622871",
+        "product_name": "슬림라인 C타입 to Mini 5핀 외장하드 케이블",
+        "option_name": "1m 레드 1개"
+      },
+      {
+        "info_row": 942,
+        "inventory_id": "15487912967",
+        "option_id": "92321303893",
+        "sku_id": "58955354",
+        "product_name": "마카롱 C to C타입 케이블",
+        "option_name": "1개 1m 민트무스"
+      },
+      {
+        "info_row": 943,
+        "inventory_id": "15487925159",
+        "option_id": "92321354385",
+        "sku_id": "58956136",
+        "product_name": "마카롱 C타입 to 8핀 케이블",
+        "option_name": "1개 1m 민트무스"
+      },
+      {
+        "info_row": 944,
+        "inventory_id": "15487925159",
+        "option_id": "92321354391",
+        "sku_id": "58956137",
+        "product_name": "마카롱 C타입 to 8핀 케이블",
+        "option_name": "1개 1m 타로밀크"
+      },
+      {
+        "info_row": 952,
+        "inventory_id": "15533750211",
+        "option_id": "92515523768",
+        "sku_id": "60029958",
+        "product_name": "루미네온 C to C타입 케이블",
+        "option_name": "1개 2m 레인보우"
+      },
+      {
+        "info_row": 953,
+        "inventory_id": "15537635371",
+        "option_id": "92531162778",
+        "sku_id": "60140414",
+        "product_name": "코일형 항공 케이블 빅 와인더",
+        "option_name": "1개 18cm 블랙"
+      },
+      {
+        "info_row": 954,
+        "inventory_id": "15537635371",
+        "option_id": "92531162783",
+        "sku_id": "60140415",
+        "product_name": "코일형 항공 케이블 빅 와인더",
+        "option_name": "1개 18cm 실버"
+      },
+      {
+        "info_row": 960,
+        "inventory_id": "15560539070",
+        "option_id": "92627973864",
+        "sku_id": "60697151",
+        "product_name": "LED 글로우 C to C타입 케이블",
+        "option_name": "1개 1m 그라데이션"
+      },
+      {
+        "info_row": 961,
+        "inventory_id": "15560549094",
+        "option_id": "92628026868",
+        "sku_id": "60697566",
+        "product_name": "LED 글로우 USB-A to C타입 케이블",
+        "option_name": "1개 1m 그라데이션"
+      },
+      {
+        "info_row": 963,
+        "inventory_id": "15580098654",
+        "option_id": "92708149830",
+        "sku_id": "61051386",
+        "product_name": "U자형 USB-A to C타입 흡착식 고정 케이블",
+        "option_name": "1개 1m"
+      },
+      {
+        "info_row": 974,
+        "inventory_id": "15668092592",
+        "option_id": "93117700470",
+        "sku_id": "62666422",
+        "product_name": "코튼터치 수평 C타입 to 수평 8핀 미니 플랫 케이블",
+        "option_name": "1개 화이트 15.5cm"
+      },
+      {
+        "info_row": 984,
+        "inventory_id": "15751026408",
+        "option_id": "93527408200",
+        "sku_id": "64415017",
+        "product_name": "직각 USB-A to 수평 8핀 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 985,
+        "inventory_id": "15751026408",
+        "option_id": "93527408201",
+        "sku_id": "64415018",
+        "product_name": "직각 USB-A to 수평 8핀 C타입 2in1 더블라인 케이블",
+        "option_name": "1개 블랙 0.6m"
+      },
+      {
+        "info_row": 992,
+        "inventory_id": "15765351399",
+        "option_id": "93597597361",
+        "sku_id": "64762326",
+        "product_name": "(파스텔) C타입 8핀 실리콘 미니 양방향 충전케이블",
+        "option_name": "12cm 애쉬그레이 1개"
+      },
+      {
+        "info_row": 993,
+        "inventory_id": "15765351399",
+        "option_id": "93597597362",
+        "sku_id": "64762328",
+        "product_name": "(파스텔) C타입 8핀 실리콘 미니 양방향 충전케이블",
+        "option_name": "12cm 크림옐로우 1개"
+      },
+      {
+        "info_row": 998,
+        "inventory_id": "15784480375",
+        "option_id": "93688694683",
+        "sku_id": "65189612",
+        "product_name": "듀론 역직각 C타입 to 수평 8핀 C타입 스프링 케이블",
+        "option_name": "1개 블랙 1.6m"
+      },
+      {
+        "info_row": 1039,
+        "inventory_id": "15927215904",
+        "option_id": "94332133826",
+        "sku_id": "68096083",
+        "product_name": "수평 to 수평 USB C타입 8핀 5핀 올인원 캐리어 릴케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 1063,
+        "inventory_id": "15998154787",
+        "option_id": "94614131034",
+        "sku_id": "69156252",
+        "product_name": "터보레일 역직각 to 수평 C타입 고속케이블",
+        "option_name": "1개 판매중지 1.2m"
+      },
+      {
+        "info_row": 1096,
+        "inventory_id": "15967661681",
+        "option_id": "95023738913",
+        "sku_id": "70812970",
+        "product_name": "스위치전원 USB 3.0 고속 연장케이블",
+        "option_name": "1개 블랙 0.5m"
+      },
+      {
+        "info_row": 1117,
+        "inventory_id": "16154783896",
+        "option_id": "95239027470",
+        "sku_id": "72181523",
+        "product_name": "크론 180도 회전 USB-A to 180도 회전 C타입 충전 케이블",
+        "option_name": "1개 스카이 2m"
+      },
+      {
+        "info_row": 1118,
+        "inventory_id": "16154783896",
+        "option_id": "95239027471",
+        "sku_id": "72181524",
+        "product_name": "크론 180도 회전 USB-A to 180도 회전 C타입 충전 케이블",
+        "option_name": "1개 스카이 1m"
+      },
+      {
+        "info_row": 1119,
+        "inventory_id": "16159349032",
+        "option_id": "95256999982",
+        "sku_id": "72325604",
+        "product_name": "메탈 바디 240W PD 전력표시 수평 to 수평 C타입 고속충전 케이블",
+        "option_name": "1개 C to C 3m"
+      },
+      {
+        "info_row": 1179,
+        "inventory_id": "16282682376",
+        "option_id": "95693024838",
+        "sku_id": "75937235",
+        "product_name": "직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 판매종료 50cm"
+      },
+      {
+        "info_row": 1180,
+        "inventory_id": "16282682376",
+        "option_id": "95693024843",
+        "sku_id": "75937236",
+        "product_name": "직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 판매종료 15cm"
+      },
+      {
+        "info_row": 1200,
+        "inventory_id": "16313485019",
+        "option_id": "95810750784",
+        "sku_id": "76818205",
+        "product_name": "2.5미터 블리츠 USB-A 롱케이블 인이어 이어폰",
+        "option_name": "USB-A단자 화이트"
+      },
+      {
+        "info_row": 1298,
+        "inventory_id": "16433007723",
+        "option_id": "96253102608",
+        "sku_id": "83108153",
+        "product_name": "파워 클리커 데스크탑 PC 외부 전원 스위치 LED 버튼 케이블 세트",
+        "option_name": "화이트 1개"
+      },
+      {
+        "info_row": 1299,
+        "inventory_id": "16433007723",
+        "option_id": "96253102609",
+        "sku_id": "83108152",
+        "product_name": "파워 클리커 데스크탑 PC 외부 전원 스위치 LED 버튼 케이블 세트",
+        "option_name": "블랙 1개"
+      },
+      {
+        "info_row": 1302,
+        "inventory_id": "16437347054",
+        "option_id": "96267501055",
+        "sku_id": "83311485",
+        "product_name": "Type-C 접이식 휴대폰 충전 거치대 65W 고속충전 데이터 케이블",
+        "option_name": "1m 블랙 1개"
+      },
+      {
+        "info_row": 1303,
+        "inventory_id": "16437347054",
+        "option_id": "96267501056",
+        "sku_id": "83311486",
+        "product_name": "Type-C 접이식 휴대폰 충전 거치대 65W 고속충전 데이터 케이블",
+        "option_name": "2m 블랙 1개"
+      },
+      {
+        "info_row": 1305,
+        "inventory_id": "16437517118",
+        "option_id": "96268055970",
+        "sku_id": "83324263",
+        "product_name": "터보레일 역직각 C to 수평 USB-A 고속케이블",
+        "option_name": "1개 블랙 1.2m"
+      },
+      {
+        "info_row": 1306,
+        "inventory_id": "16437525344",
+        "option_id": "96268094388",
+        "sku_id": "83325314",
+        "product_name": "슬로프 역직각 to 수평 C타입 240W 초고속충전 케이블",
+        "option_name": "1개 블랙골드 3m"
+      },
+      {
+        "info_row": 1307,
+        "inventory_id": "16437528754",
+        "option_id": "96268109792",
+        "sku_id": "83326053",
+        "product_name": "슬로프 역직각 to 역직각 C타입 240W 초고속충전 케이블",
+        "option_name": "1개 블랙골드 3m"
+      },
+      {
+        "info_row": 1308,
+        "inventory_id": "16437535514",
+        "option_id": "96268131529",
+        "sku_id": "83326675",
+        "product_name": "마그네틱 코일 스프링 수평 to 수평 C타입 고속 충전 케이블",
+        "option_name": "1개 블랙 15cm"
+      },
+      {
+        "info_row": 1309,
+        "inventory_id": "16437537207",
+        "option_id": "96268137849",
+        "sku_id": "83326897",
+        "product_name": "마그네틱 코일 스프링 수평 USB-A to 수평 C타입 고속 충전 케이블",
+        "option_name": "1개 블랙 18cm"
+      },
+      {
+        "info_row": 1310,
+        "inventory_id": "16437547306",
+        "option_id": "96268170716",
+        "sku_id": "83327425",
+        "product_name": "역직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 블랙 15cm"
+      },
+      {
+        "info_row": 1311,
+        "inventory_id": "16437547306",
+        "option_id": "96268170717",
+        "sku_id": "83327426",
+        "product_name": "역직각 USB-A to 듀얼 수평 C타입 플랫 케이블 66W",
+        "option_name": "1개 블랙 50cm"
+      },
+      {
+        "info_row": 1312,
+        "inventory_id": "16437551188",
+        "option_id": "96268188114",
+        "sku_id": "83327695",
+        "product_name": "듀오싱크 직각 C타입 to 2in1 수평 USB-A+A 데이터전송 충전 연장 케이블",
+        "option_name": "1개 C타입 to USB+USB 24cm"
+      },
+      {
+        "info_row": 1313,
+        "inventory_id": "16437553608",
+        "option_id": "96268199558",
+        "sku_id": "83327906",
+        "product_name": "듀오싱크 직각 C타입 to 2in1 수평 USB-A+C 데이터전송 충전 연장 케이블",
+        "option_name": "1개 C타입 to USB+USB-C 24cm"
+      },
+      {
+        "info_row": 1314,
+        "inventory_id": "16437554881",
+        "option_id": "96268205770",
+        "sku_id": "83328029",
+        "product_name": "듀오싱크 수평 C타입 to 2in1 수평 USB-A+A 데이터전송 충전 연장 케이블",
+        "option_name": "1개 C타입 to USB+USB 24.5cm"
+      },
+      {
+        "info_row": 1315,
+        "inventory_id": "16437557217",
+        "option_id": "96268215432",
+        "sku_id": "83328211",
+        "product_name": "듀오싱크 수평 C타입 to 2in1 수평 USB-A+C 데이터전송 충전 연장 케이블",
+        "option_name": "1개 C타입 to USB+USB-C 24.5cm"
+      }
+    ]
+  }
+}

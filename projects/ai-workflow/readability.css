@@ -1,0 +1,112 @@
+/* Reading scale: hierarchy comes primarily from weight, spacing and color. */
+body { font-size:18px; }
+.wordmark { font-size:20px; }
+.wordmark-sub,.eyebrow,.project-label,.header-action,.mini-label,
+.key-hint,.chapter-position,.chapter-nav .eyebrow,.conversation-note,
+.speaker,.speaker b,.evidence-title,.file-type,.back-intro,.site-footer,
+.intro-bottom,.cc-note { font-size:15px; font-weight:400; }
+.eyebrow,.speaker b,.file-type { font-weight:600; }
+.intro h1 { font-size:clamp(36px,3.8vw,54px); font-weight:750; }
+.lead { font-size:21px; font-weight:550; }
+.sublead { font-size:18px; font-weight:400; line-height:1.95; }
+.button,.button.small,.story-controls .next { font-size:17px; }
+.source-sheet,.source-sheet b { font-size:15px; }
+.source-sheet { min-width:120px; }
+.process-box b,.result-box b { font-size:19px; font-weight:650; }
+.process-box span,.result-box p { font-size:16px; font-weight:400; line-height:1.8; }
+.chapter h1 { font-size:clamp(30px,3.2vw,44px); font-weight:750; }
+.chapter-summary { font-size:18px; font-weight:400; line-height:1.95; }
+.chapter-link,.chapter-link .nav-number { font-size:16px; }
+.chapter-link.active { font-weight:650; }
+.chapter-nav { min-width:0; }
+.story-shell { grid-template-columns:205px minmax(0,1fr); gap:45px; }
+.bubble { font-size:19px; line-height:1.95; padding:22px 26px; font-weight:400; }
+.bubble strong { font-weight:750; }
+.speaker { margin-bottom:10px; }
+.speaker b { padding:5px 9px; }
+.chapter-takeaway { font-size:17px; }
+.chapter-takeaway span { font-weight:650; }
+.file-button,.text-button,.previous { font-size:16px; }
+.file-button { padding:12px 15px; min-height:48px; }
+.finish-box h2 { font-size:21px; font-weight:700; }
+.finish-box p { font-size:17px; }
+.site-footer { justify-content:flex-end; }
+
+/* One concrete outcome on the introduction screen. */
+.guide-highlight { display:flex; align-items:center; gap:28px; margin-top:54px; padding:28px 0; border-block:1px solid var(--line); }
+.guide-page-count { font-size:48px; font-weight:700; color:var(--blue); white-space:nowrap; }
+.guide-page-count span { font-size:18px; font-weight:400; margin-left:7px; }
+.guide-description { flex:1; }
+.guide-description h2 { font-size:22px; line-height:1.65; font-weight:650; letter-spacing:-.035em; margin:0 0 6px; }
+.guide-description p { font-size:17px; font-weight:400; color:var(--muted); line-height:1.8; margin:0; }
+.intro-bottom { line-height:1.9; }
+
+/* Shared floating document window. */
+#file-dialog { position:fixed; width:min(1120px,calc(100vw - 32px)); height:min(860px,calc(100dvh - 32px)); max-width:calc(100vw - 16px); max-height:calc(100dvh - 16px); overflow:hidden; }
+#file-dialog[open] { display:flex; flex-direction:column; }
+.dialog-header { flex-shrink:0; cursor:move; touch-action:none; user-select:none; padding:18px 24px; }
+.dialog-header h2 { font-size:22px; font-weight:700; }
+.dialog-header .eyebrow { font-size:14px; }
+.window-hint { color:var(--muted); font-size:14px; font-weight:400; margin:7px 0 0; line-height:1.6; }
+.window-actions { display:flex; gap:9px; flex-shrink:0; }
+.close-button { width:44px; height:44px; cursor:pointer; }
+.dialog-footer { flex-shrink:0; padding:16px 36px 16px 24px; }
+.dialog-footer>span { font-size:15px; font-weight:400; }
+#dialog-body { flex:1; min-height:0; max-height:none; }
+#dialog-body:has(iframe) { display:flex; flex-direction:column; gap:12px; }
+#dialog-body iframe { flex:1; height:auto; min-height:100px; }
+#dialog-body pre,#dialog-body .record pre { font-size:17px; line-height:1.95; }
+#dialog-body .record h3 { font-size:18px; font-weight:650; }
+#dialog-body .record h4 { font-size:17px; }
+#dialog-body .sheet-wrap { max-height:none; }
+#dialog-body table { font-size:15px; }
+.file-context { font-size:16px; font-weight:400; flex-shrink:0; }
+#dialog-resize { position:absolute; right:0; bottom:0; width:30px; height:30px; display:flex; align-items:flex-end; justify-content:flex-end; padding:3px 5px; color:#7587b4; cursor:nwse-resize; touch-action:none; user-select:none; }
+#dialog-resize span { font-size:18px; }
+.window-manipulating iframe { pointer-events:none; }
+.window-maximized .dialog-header { cursor:default; }
+.window-maximized #dialog-resize { display:none; }
+#dialog-body.pdf-preview-body { display:flex; flex-direction:column; overflow:hidden; padding:0; }
+.pdf-controls { display:flex; align-items:center; flex-wrap:wrap; gap:12px; padding:12px 20px; border-bottom:1px solid var(--line); background:white; flex-shrink:0; font-size:15px; }
+.pdf-controls button { background:white; border:1px solid #d9e0ec; border-radius:7px; min-height:40px; padding:8px 12px; font-size:15px; }
+.pdf-page-count { color:var(--muted); margin-left:auto; }
+.pdf-pages { overflow:auto; flex:1; min-height:0; padding:20px; }
+.pdf-page-stack { min-width:100%; margin:auto; }
+.pdf-page-stack figure { margin:0 0 20px; }
+#dialog-body .pdf-page-stack img { display:block; width:100%; max-width:none; height:auto; box-shadow:0 2px 8px #20263115; }
+.pdf-page-stack figcaption { text-align:center; padding:10px; font-size:15px; color:var(--muted); }
+
+@media(max-width:1000px) {
+ .intro-layout { gap:30px; }
+ .story-shell { grid-template-columns:170px minmax(0,1fr); gap:25px; }
+ .guide-highlight { flex-wrap:wrap; }
+ .guide-highlight .button { margin-left:72px; }
+}
+@media(max-width:700px) {
+ body { font-size:17px; }
+ .intro h1 { font-size:36px; }
+ .lead { font-size:20px; }
+ .sublead,.chapter-summary { font-size:18px; }
+ .wordmark-sub { display:none; }
+ .header-action { font-size:15px; }
+ .guide-highlight { gap:18px; }
+ .guide-description { min-width:190px; }
+ .guide-description h2 { font-size:20px; }
+ .guide-highlight .button { margin-left:0; }
+ .story-shell { display:block; }
+ .chapter-link .nav-number { font-size:16px; }
+ .chapter-link.active .nav-title { display:none; }
+ .chapter h1 { font-size:30px; }
+ .bubble { font-size:18px; padding:20px; }
+ .speaker { flex-wrap:wrap; font-size:15px; }
+ .speaker b { font-size:15px; }
+ .file-button { font-size:16px; }
+ .site-footer { font-size:15px; }
+ .dialog-header { padding:15px; gap:12px; }
+ .dialog-header h2 { font-size:19px; }
+ .window-hint { font-size:14px; }
+ .window-actions { gap:6px; }
+ .close-button { min-width:40px; width:40px; height:44px; }
+ .dialog-footer { padding:14px 28px 20px 15px; }
+ #dialog-body pre,#dialog-body .record pre { font-size:17px; }
+}
