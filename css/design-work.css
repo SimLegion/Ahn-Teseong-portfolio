@@ -29,3 +29,4 @@ html:has(#art-view[open]) { overflow: hidden; }
 .ai-case-card small { font-size: .82rem; color: #625c55; }
 .ai-case-card:focus-visible { outline: 3px solid #235bb2; outline-offset: 3px; }
 @media (max-width: 768px) { .ai-case-card { width: 100%; } }
+.design-group .product-work img { object-fit: contain; object-position: center; }
