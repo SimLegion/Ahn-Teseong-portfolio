@@ -29,10 +29,19 @@ html:has(#art-view[open]) { overflow: hidden; }
 .ai-case-card small { font-size: .82rem; color: #625c55; }
 .ai-case-card:focus-visible { outline: 3px solid #235bb2; outline-offset: 3px; }
 @media (max-width: 768px) { .ai-case-card { width: 100%; } }
-.design-group .product-work img { object-fit: contain; object-position: center; }
+.design-group .product-work a { overflow: hidden; }
 
 #art-view [hidden] { display: none !important; }
 .product-gallery { padding: 1rem; display: grid; gap: 1.5rem; }
 .product-gallery figure { margin: 0; }
 .product-gallery figcaption { padding: .5rem; text-align: center; }
-.design-group .product-work img { aspect-ratio: 1; }
+.design-group .product-work a { position: relative; padding-top: 100%; }
+.design-group .product-work img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+}
+.design-group .product-work a > span { position: relative; background: white; }
