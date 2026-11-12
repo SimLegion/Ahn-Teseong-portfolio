@@ -45,3 +45,27 @@ html:has(#art-view[open]) { overflow: hidden; }
   aspect-ratio: auto;
 }
 .design-group .product-work a > span { position: relative; background: white; }
+/* Keep content readable on wide screens while retaining mobile side space. */
+#about > h3,
+.about_contents,
+.project_wrap {
+  width: min(1200px, calc(100% - 48px));
+  margin-inline: auto;
+}
+.about_contents,
+.project_wrap {
+  column-gap: clamp(16px, 2vw, 32px);
+}
+.project_wrap {
+  padding-top: clamp(96px, calc(4vw + 80px), 144px);
+  padding-bottom: clamp(24px, 4vw, 64px);
+  row-gap: clamp(24px, 4vw, 64px);
+}
+.tool_slide { max-width: 100%; min-width: 0; }
+.ai-case-card { width: calc((100% - clamp(16px, 2vw, 32px)) / 2); }
+@media (max-width: 768px) {
+  #about > h3,
+  .about_contents,
+  .project_wrap { width: calc(100% - 40px); }
+  .ai-case-card { width: 100%; }
+}
