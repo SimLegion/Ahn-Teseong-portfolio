@@ -10,7 +10,7 @@
 .design-group a > span { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem; padding: 1rem; font-weight: 650; }
 .design-group small { color: #625c55; font-size: .82rem; }
 @container (max-width: 32rem) { .design-group ul { grid-template-columns: 1fr; } }
-#art-view { margin: auto; width: min(96vw, 64rem); max-width: 100%; height: 90vh; height: 90dvh; max-height: 100%; padding: 0; border: 0; border-radius: 1rem; background: #f3f1ed; color: #222; }
+#art-view { margin: auto; width: min(96vw, 860px); max-width: 100%; height: 90vh; height: 90dvh; max-height: 100%; padding: 0; border: 0; border-radius: 1rem; background: #f3f1ed; color: #222; }
 #art-view[open] { display: flex; flex-direction: column; }
 #art-view::backdrop { background: #171717cf; }
 #art-view header { position: static; display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; justify-content: space-between; padding: .65rem 1rem; background: white; }
