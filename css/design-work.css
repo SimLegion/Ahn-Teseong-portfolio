@@ -88,3 +88,20 @@ html:has(#art-view[open]) { overflow: hidden; }
 @media (max-width: 480px) {
   .design-group .product-work a > span { column-gap: .5rem; padding: .8rem; }
 }
+#about {
+  min-height: 0;
+  padding-bottom: clamp(40px, 5vw, 80px);
+}
+#about > h3,
+.about_contents {
+  max-width: 1400px;
+  width: calc(100% - 48px);
+}
+.text_about p {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+@media (max-width: 768px) {
+  #about > h3,
+  .about_contents { width: calc(100% - 40px); }
+}
