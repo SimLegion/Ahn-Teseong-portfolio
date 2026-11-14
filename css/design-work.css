@@ -126,3 +126,14 @@ html:has(#art-view[open]) { overflow: hidden; }
     object-fit: contain;
   }
 }
+@media (min-width: 1025px) {
+  #about > h3,
+  .about_contents {
+    width: calc(100% - clamp(48px, 10vw, 200px));
+    margin-inline: auto;
+  }
+  .robot_box {
+    justify-content: flex-start;
+    padding-left: clamp(24px, 5vw, 100px);
+  }
+}
