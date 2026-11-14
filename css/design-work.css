@@ -6,7 +6,7 @@
 .design-group ul { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: clamp(.8rem,2vw,2rem); }
 .design-group a { display: block; border: 1px solid #dad7d0; border-radius: .8rem; overflow: hidden; background: white; }
 .design-group img { display: block; width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: top; background: #f5f4f1; }
-.design-group:first-of-type img { object-fit: contain; object-position: center; }
+.design-group.branding-group img { object-fit: contain; object-position: center; }
 .design-group a > span { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem; padding: 1rem; font-weight: 650; }
 .design-group small { color: #625c55; font-size: .82rem; }
 @container (max-width: 32rem) { .design-group ul { grid-template-columns: 1fr; } }
