@@ -66,3 +66,23 @@ galleryButton.addEventListener('click', () => {
   setZoom(false);
   frame.scrollTo(0, 0);
 });
+function isOutsideViewer(event) {
+  const bounds = viewer.getBoundingClientRect();
+  return event.clientX < bounds.left || event.clientX > bounds.right ||
+    event.clientY < bounds.top || event.clientY > bounds.bottom;
+}
+
+let pointerStartedOutside = false;
+viewer.addEventListener('pointerdown', event => {
+  pointerStartedOutside = event.button === 0 && isOutsideViewer(event);
+});
+viewer.addEventListener('pointercancel', () => {
+  pointerStartedOutside = false;
+});
+viewer.addEventListener('click', event => {
+  if (pointerStartedOutside && isOutsideViewer(event)) viewer.close();
+  pointerStartedOutside = false;
+});
+viewer.addEventListener('close', () => {
+  pointerStartedOutside = false;
+});
